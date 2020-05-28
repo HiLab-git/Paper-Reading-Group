@@ -27,7 +27,7 @@ List shared papers in our group
 |2019.12.18|向东海|{IEEE} Trans.Mutimedia |Multi-Person Pose Estimation Using Bounding Box Constraint and LSTM| |
 |2019.12.25|刘保森|TPAMI      |Multi-Scale Deep Reinforcement Learning for Real-Time 3D-Landmark Detection in CT Scans| |
 |2020.01.08|梅昊陈|TPAMI      |Semi-Supervised Semantic Segmentation with High- and Low-level Consistency| |
-|2020.05.27|顾然  |TMI        |[Unsupervised Bidirectional Cross-Modality Adaptation via Deeply Synergistic Image and Feature Alignment for Medical Image Segmentation](https://arxiv.org/abs/2002.02255)| |
+|2020.05.27|顾然  |TMI        |[Unsupervised Bidirectional Cross-Modality Adaptation via Deeply Synergistic Image and Feature Alignment for Medical Image Segmentation](https://arxiv.org/abs/2002.02255)| |https://github.com/cchen-cc/SIFA
 |2020.05.27|郭栋  |CVPR2020   |[Reusing Discriminators for Encoding: Towards Unsupervised Image-to-Image Translation](https://arxiv.org/abs/2003.00273)| |
 
 **[⬆ back to top](#paper-reading-group)**
