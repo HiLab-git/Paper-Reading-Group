@@ -5,7 +5,7 @@ List shared papers in our group
 
 |Date|Speaker|Paper source|Title|Code|
 |---|:---:|---|---|---|
-|2019.10.16|郭栋  |CVPR2019   |[Generating Classification Weights with GNN Denoising Autoencoders for Few-Shot Learning](https://arxiv.org/abs/1905.01102)|[Pytorch](https://github.com/gidariss/wDAE_GNN_FewShot)|
+|2019.10.16|郭栋  |CVPR2019   | [Generating Classification Weights with GNN Denoising Autoencoders for Few-Shot Learning](https://arxiv.org/abs/1905.01102) | [Pytorch](https://github.com/gidariss/wDAE_GNN_FewShot) |
 |2019.10.16|刘保森|CVPR2019   |[RL-GAN-Net: A Reinforcement Learning Agent Controlled GAN Network for Real-Time Point Cloud Shape Completion](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sarmad_RL-GAN-Net_A_Reinforcement_Learning_Agent_Controlled_GAN_Network_for_Real-Time_CVPR_2019_paper.pdf)| |
 |2019.10.23|梅昊陈|MICCAI     |[1.Improved Inference via Deep Input Transfer](https://arxiv.org/abs/1904.02307)  [2.Pick-and-Learn: Automatic Quality Evaluation for Noisy-Labeled Image Segmentation](https://arxiv.org/abs/1907.11835)| |
 |2019.10.23|雷文辉|MICCAI2019 |[Optimizing the Dice Score and Jaccard Index for Medical Image Segmentation: Theory and Practice](https://arxiv.org/abs/1911.01685)| |
