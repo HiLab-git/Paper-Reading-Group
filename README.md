@@ -31,3 +31,17 @@ List shared papers in our group
 |2020.05.27|郭栋  |CVPR2020   |[Reusing Discriminators for Encoding: Towards Unsupervised Image-to-Image Translation](https://arxiv.org/abs/2003.00273)|[PyTorch](https://github.com/alpc91/NICE-GAN-pytorch)|
 
 **[⬆ back to top](#paper-reading-group)**
+
+# MICS Share
+
+MICS online academic lectures
+
+|Date|Speaker|Title|Video|
+|---|:---:|---|---|
+|2020.01.07|[高跃](http://www.gaoyue.org/cn/index)| Hypergraph Learning and its Applications | [Bilibili](https://www.bilibili.com/video/BV1nK4y1b7bZ) |
+|2020.02.18|刘士远、史河水、[沈定刚](http://shen.web.unc.edu/)等| 新冠肺炎影像诊断及AI系统进展 | [Bilibili](https://www.bilibili.com/video/BV19V411R7oE) |
+|2020.03.13|黄昆| 计算病理与基因组学数据的整合分析（计算病理专题报告之二） | [Bilibili](https://www.bilibili.com/video/BV1Za4y1v76N) |
+|2020.03.31|牛海军| 超声在生物组织力学特性测量方面的应用 | [Bilibili](https://www.bilibili.com/video/BV1qz411z7LD) |
+|2020.04.14|刘日升| 优化观点下的深度学习及其在医学影像领域中的应用 | [Bilibili](https://www.bilibili.com/video/BV11A41147w5) |
+|2020.04.28|[窦琪](http://www.cse.cuhk.edu.hk/~qdou/)| 深度学习在医学图像分割中的模型泛化性能研究 | [Bilibili](https://www.bilibili.com/video/BV1Ye411p7Vo) |
+|2020.05.14|[沈定刚](http://shen.web.unc.edu/)、刘天明、郑国焱等| imaging AI based Management of COVID-19 Webinar Series | [Bilibili](https://www.bilibili.com/video/BV1Ji4y147qW?p=1) |
