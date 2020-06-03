@@ -2,7 +2,7 @@
 
 - [组内资料分享](#组内资料分享)
 	- [0.Paper-Reading-Group (论文分享)](##Paper-Reading-Group)
-	- [1.MICS Lecture Share (MICS在线学术讲座)](## MICS Lecture Share)
+	- [1.MICS-Lecture-Share (MICS在线学术讲座)](##MICS-Lecture-Share)
   
 ## Paper-Reading-Group
 
@@ -36,9 +36,9 @@ List shared papers in our group
 |2020.05.27|顾然  |TMI        |[Unsupervised Bidirectional Cross-Modality Adaptation via Deeply Synergistic Image and Feature Alignment for Medical Image Segmentation](https://arxiv.org/abs/2002.02255)|[TensorFlow](https://github.com/cchen-cc/SIFA)|
 |2020.05.27|郭栋  |CVPR2020   |[Reusing Discriminators for Encoding: Towards Unsupervised Image-to-Image Translation](https://arxiv.org/abs/2003.00273)|[PyTorch](https://github.com/alpc91/NICE-GAN-pytorch)|
 
-**[⬆ back to top](# 组内资料分享)**
+**[⬆ back to top]**(# 组内资料分享)**
 
-## MICS Lecture Share
+## MICS-Lecture-Share
 
 MICS online academic lectures
 
@@ -52,4 +52,4 @@ MICS online academic lectures
 |2020.04.28|[窦琪](http://www.cse.cuhk.edu.hk/~qdou/)| 深度学习在医学图像分割中的模型泛化性能研究 | [Bilibili](https://www.bilibili.com/video/BV1Ye411p7Vo) |
 |2020.05.14|[沈定刚](http://shen.web.unc.edu/)、刘天明、郑国焱等| Imaging AI based Management of COVID-19 Webinar Series | [Bilibili](https://www.bilibili.com/video/BV1Ji4y147qW?p=1) |
 
-**[⬆ back to top](# 组内资料分享)**
+**[⬆ back to top]**(# 组内资料分享)**
