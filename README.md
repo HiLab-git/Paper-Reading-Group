@@ -1,8 +1,8 @@
 # 组内资料分享
 
 - [组内资料分享](#组内资料分享)
-	- [0.Paper-Reading-Group (论文分享)](##Paper-Reading-Group)
-	- [1.MICS-Lecture-Share (MICS在线学术讲座)](##MICS-Lecture-Share)
+	- [0.Paper-Reading-Group (论文分享)](## Paper-Reading-Group)
+	- [1.MICS-Lecture-Share (MICS在线学术讲座)](## MICS-Lecture-Share)
   
 ## Paper-Reading-Group
 
