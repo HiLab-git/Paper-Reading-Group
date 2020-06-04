@@ -35,8 +35,8 @@ List shared papers in our group
 |2020.01.08|梅昊陈|TPAMI      |[Semi-Supervised Semantic Segmentation with High- and Low-level Consistency](https://arxiv.org/abs/1908.05724)|[Pytorch](https://github.com/sud0301/semisup-semseg)|
 |2020.05.27|顾然  |TMI        |[Unsupervised Bidirectional Cross-Modality Adaptation via Deeply Synergistic Image and Feature Alignment for Medical Image Segmentation](https://arxiv.org/abs/2002.02255)|[TensorFlow](https://github.com/cchen-cc/SIFA)|
 |2020.05.27|郭栋  |CVPR2020   |[Reusing Discriminators for Encoding: Towards Unsupervised Image-to-Image Translation](https://arxiv.org/abs/2003.00273)|[PyTorch](https://github.com/alpc91/NICE-GAN-pytorch)|
-|2020.06.03|王欢  |(TMI)|[Synergistic Learning of Lung Lobe Segmentationand Hierarchical Multi-Instance Classification forAutomated Severity Assessment of COVID-19 inCT Images](https://arxiv.org/pdf/2005.03832.pdf)||
-|2020.06.03|雷文辉|TMI        |[HyperDense-Net: A Hyper-Densely Connected CNN for Multi-Modal Image Segmentation](https://ieeexplore.ieee.org/document/8515234)||
+|2020.06.03|王欢  |TMI|[Synergistic Learning of Lung Lobe Segmentationand Hierarchical Multi-Instance Classification forAutomated Severity Assessment of COVID-19 inCT Images](https://arxiv.org/pdf/2005.03832.pdf)||
+|2020.06.03|雷文辉|TMI|[HyperDense-Net: A Hyper-Densely Connected CNN for Multi-Modal Image Segmentation](https://ieeexplore.ieee.org/document/8515234)|[pytorch](https://github.com/josedolz/HyperDenseNet_pytorch)|
 
 **[⬆ back to top](#组内资料分享)**
 
