@@ -55,5 +55,5 @@ MICS online academic lectures
 |2020.04.14|刘日升| 优化观点下的深度学习及其在医学影像领域中的应用 | [Bilibili](https://www.bilibili.com/video/BV11A41147w5) |
 |2020.04.28|[窦琪](http://www.cse.cuhk.edu.hk/~qdou/)| 深度学习在医学图像分割中的模型泛化性能研究 | [Bilibili](https://www.bilibili.com/video/BV1Ye411p7Vo) |
 |2020.05.14|[沈定刚](http://shen.web.unc.edu/)、刘天明、郑国焱等| Imaging AI based Management of COVID-19 Webinar Series | [Bilibili](https://www.bilibili.com/video/BV1Ji4y147qW?p=1) |
-
+|2020.06.2|[夏勇](https://teacher.nwpu.edu.cn/yongxia.html)| 医学影像小数据深度学习 | [Bilibili](https://www.bilibili.com/video/BV1wz4y1R7cj) |
 **[⬆ back to top](#组内资料分享)**
