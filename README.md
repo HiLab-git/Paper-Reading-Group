@@ -39,6 +39,8 @@ List shared papers in our group
 |2020.06.03|雷文辉|TMI|[HyperDense-Net: A Hyper-Densely Connected CNN for Multi-Modal Image Segmentation](https://ieeexplore.ieee.org/document/8515234)|[Pytorch](https://github.com/josedolz/HyperDenseNet_pytorch)|
 |2020.06.10|梅昊陈|TMI|[Inf-Net: Automatic COVID-19 Lung Infection Segmentation from CT Images](https://arxiv.org/abs/2004.14133)|[Pytorch](https://github.com/DengPingFan/Inf-Net)|
 |2020.06.10|付浩|Neural Networks|[Learning deformable registration of medical images with anatomical constraints](https://doi.org/10.1016/j.neunet.2020.01.023)|[Tensorflow](https://github.com/lucasmansilla/ACRN_Chest_X-ray_IA)|
+|2020.06.17|许伟  |CVPR2020   |[HigherHRNet: Scale-Aware Representation Learning for Bottom-Up Human Pose Estimation](https://arxiv.org/abs/1908.10357)|[Pytorch](https://github.com/HRNet/HigherHRNet-Human-Pose-Estimation)|
+|2020.06.17|向东海|CVPR2020   |[VIBE: Video Inference for Human Body Pose and Shape Estimation](https://arxiv.org/abs/1912.05656)| [Tensorflow](https://github.com/mkocabas/VIBE)|
 
 **[⬆ back to top](#组内资料分享)**
 
