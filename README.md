@@ -42,8 +42,8 @@ List shared papers in our group
 |2020.06.17|许伟  |CVPR2020   |[HigherHRNet: Scale-Aware Representation Learning for Bottom-Up Human Pose Estimation](https://arxiv.org/abs/1908.10357)|[Pytorch](https://github.com/HRNet/HigherHRNet-Human-Pose-Estimation)|
 |2020.06.17|向东海|CVPR2020   |[VIBE: Video Inference for Human Body Pose and Shape Estimation](https://arxiv.org/abs/1912.05656)| [Tensorflow](https://github.com/mkocabas/VIBE)|
 |2020.06.24|刘保森|TPAMI   |[End-to-end Active Object Tracking and Its Real-world Deployment via Reinforcement Learning](https://arxiv.org/abs/1808.03405)||
-|2020.07.01|顾然|nature mechine intelligence|[A shallow convolutional neural network predicts prognosis of lung cancer patients in multi-institutional computed tomography image datasets](https://www.nature.com/articles/s42256-020-0173-6)| [Python](https://codeocean.com/capsule/5978670/tree/v1)|
-|2020.07.01|王璐|nature mechine intelligence|[Augmenting Vascular Disease Diagnosis by Vasculature-aware Unsupervised Learning](https://www.biorxiv.org/content/10.1101/2020.02.07.938282v1.full.pdf)||
+|2020.07.01|顾然|nature machine intelligence|[A shallow convolutional neural network predicts prognosis of lung cancer patients in multi-institutional computed tomography image datasets](https://www.nature.com/articles/s42256-020-0173-6)| [Python](https://codeocean.com/capsule/5978670/tree/v1)|
+|2020.07.01|王璐|nature machine intelligence|[Augmenting Vascular Disease Diagnosis by Vasculature-aware Unsupervised Learning](https://www.biorxiv.org/content/10.1101/2020.02.07.938282v1.full.pdf)||
 
 **[⬆ back to top](#组内资料分享)**
 
