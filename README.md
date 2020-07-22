@@ -44,6 +44,14 @@ List shared papers in our group
 |2020.06.24|刘保森|TPAMI   |[End-to-end Active Object Tracking and Its Real-world Deployment via Reinforcement Learning](https://arxiv.org/abs/1808.03405)||
 |2020.07.01|顾然|nature machine intelligence|[A shallow convolutional neural network predicts prognosis of lung cancer patients in multi-institutional computed tomography image datasets](https://www.nature.com/articles/s42256-020-0173-6)| [Python](https://codeocean.com/capsule/5978670/tree/v1)|
 |2020.07.01|王璐|nature machine intelligence|[Augmenting Vascular Disease Diagnosis by Vasculature-aware Unsupervised Learning](https://www.biorxiv.org/content/10.1101/2020.02.07.938282v1.full.pdf)||
+|2020.07.08|雷文辉|Nature machine intelligence|[Predicting tumour mutational burden from histopathological images using multiscale deep learning](https://sci-hub.tw/10.1038/s42256-020-0190-5)||
+|2020.07.08|郭栋  |Nature machine intelligenceWhich|[Contrast Does Matter? Towards a Deep Understanding of MR Contrast using Collaborative GAN](https://arxiv.org/abs/1905.04105)||
+|2020.07.15|梅昊陈|MIDL       |[1. Bounding boxes for weakly supervised segmentation: Global constraints get close to full supervision](https://openreview.net/pdf?id=m7HZ-yil_-) [2. Mutual information deep regularization for semi-supervised segmentation](https://openreview.net/pdf?id=iunvffXgPm)||
+|2020.07.15|付浩  |MIDL       |[1. Uncertainty-Aware Training of Neural Networks for Selective Medical Image Segmentation](https://openreview.net/forum?id=F1MIJCqX2J) [2. A Cross-Stitch Architecture for Joint Registration and Segmentation in Adaptive Radiotherapy](https://arxiv.org/abs/2004.08122)||
+|2020.07.22|王欢  |CVPR2020   |[Learning Dynamic Routing for Semantic Segmentation](https://arxiv.org/abs/2003.10401)||
+|2020.07.22|罗祥德|CVPR2020   |[Structure Boundary Preserving Segmentation for Medical Imagewith Ambiguous Boundary](https://openaccess.thecvf.com/content_CVPR_2020/papers/Lee_Structure_Boundary_Preserving_Segmentation_for_Medical_Image_With_Ambiguous_Boundary_CVPR_2020_paper.pdf)||
+
+
 
 **[⬆ back to top](#组内资料分享)**
 
