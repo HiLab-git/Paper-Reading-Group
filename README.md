@@ -53,7 +53,7 @@ List shared papers in our group
 |2020.07.29|许伟  |CVPR2020   |[PandaNet: Anchor-Based Single-Shot Multi-Person 3D Pose Estimation](https://openaccess.thecvf.com/content_CVPR_2020/html/Benzine_PandaNet_Anchor-Based_Single-Shot_Multi-Person_3D_Pose_Estimation_CVPR_2020_paper.html)||
 |2020.07.29|向东海|CVPR2020   |[Compressed Volumetric Heatmaps for Multi-Person 3D Pose Estimation](https://arxiv.org/abs/2004.00329)|[PyTorch](https://github.com/fabbrimatteo/LoCO)|
 |2020.08.05|刘保森|ECCV2020   |[BorderDet: Border Feature for Dense Object Detection](https://arxiv.org/abs/2007.11056)||
-|2020.08.05|王璐|ECCV2020   |[Unsupervised Sketch-to-Photo Synthesis](https://arxiv.org/abs/1909.08313)||
+|2020.08.05|王璐|ECCV2020   |[Unsupervised Sketch-to-Photo Synthesis](https://arxiv.org/abs/1909.08313)|[Pytorch](https://github.com/Megvii-BaseDetection/BorderDet)|
 
 **[⬆ back to top](#组内资料分享)**
 
