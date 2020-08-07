@@ -73,6 +73,6 @@ MICS online academic lectures
 |2020.06.02|[夏勇](https://teacher.nwpu.edu.cn/yongxia.html)| 医学影像小数据深度学习 | [Bilibili](https://www.bilibili.com/video/BV1wz4y1R7cj) |
 |2020.06.16|唐晓颖| 高度形变微分同胚度量映射及其在神经影像和计算机视觉中的应用 | [Bilibili](https://www.bilibili.com/video/BV1PK4y1476e) |
 |2020.06.30|高飞| 光声成像：硬件系统启发的算法设计 | [Bilibili](https://www.bilibili.com/video/BV1Lt4y1977M) |
-
-
+|2020.07.18-19|MICS| 第七届医学图像计算青年研讨会 |[blibili](https://www.bilibili.com/video/BV14v411q7Ct) |
+|2020.07.30|[柏文佳]https://www.imperial.ac.uk/people/w.bai| 机器学习在心脏图像分析中的应用 | [blibili](https://www.bilibili.com/video/BV1tv411v7d6) |
 **[⬆ back to top](#组内资料分享)**
