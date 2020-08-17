@@ -54,6 +54,8 @@ List shared papers in our group
 |2020.07.29|向东海|CVPR2020   |[Compressed Volumetric Heatmaps for Multi-Person 3D Pose Estimation](https://arxiv.org/abs/2004.00329)|[Pytorch](https://github.com/fabbrimatteo/LoCO)|
 |2020.08.05|刘保森|ECCV2020   |[BorderDet: Border Feature for Dense Object Detection](https://arxiv.org/abs/2007.11056)|[Pytorch](https://github.com/Megvii-BaseDetection/BorderDet)|
 |2020.08.05|王璐|ECCV2020   |[Unsupervised Sketch-to-Photo Synthesis](https://arxiv.org/abs/1909.08313)||
+|2020.08.12|雷文辉|CVPR2020   |[Organ at Risk Segmentation for Head and Neck Cancer Using Stratified Learning and Neural Architecture Search](https://openaccess.thecvf.com/content_CVPR_2020/html/Guo_Organ_at_Risk_Segmentation_for_Head_and_Neck_Cancer_Using_CVPR_2020_paper.html)||
+|2020.08.12|郭栋|CVPR2020   |[MSG-GAN: Multi-Scale Gradients for Generative Adversarial Networks](https://openaccess.thecvf.com/content_CVPR_2020/papers/Karnewar_MSG-GAN_Multi-Scale_Gradients_for_Generative_Adversarial_Networks_CVPR_2020_paper.pdf)||
 
 **[⬆ back to top](#组内资料分享)**
 
@@ -75,5 +77,6 @@ MICS online academic lectures
 |2020.06.30|高飞| 光声成像：硬件系统启发的算法设计 | [Bilibili](https://www.bilibili.com/video/BV1Lt4y1977M) |
 |2020.07.18-19|MICS| 第七届医学图像计算青年研讨会 |[blibili](https://www.bilibili.com/video/BV14v411q7Ct) |
 |2020.07.30|[柏文佳](https://www.imperial.ac.uk/people/w.bai)| 机器学习在心脏图像分析中的应用 | [blibili](https://www.bilibili.com/video/BV1tv411v7d6) |
+|2020.07.30|[郭翌]| 基于深度学习的超声影像超分辨率重建及分析方法 | [blibili](https://www.bilibili.com/video/BV1Lh411d73f) |
 
 **[⬆ back to top](#组内资料分享)**
