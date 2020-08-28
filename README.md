@@ -56,6 +56,10 @@ List shared papers in our group
 |2020.08.05|王璐|ECCV2020   |[Unsupervised Sketch-to-Photo Synthesis](https://arxiv.org/abs/1909.08313)||
 |2020.08.12|雷文辉|CVPR2020   |[Organ at Risk Segmentation for Head and Neck Cancer Using Stratified Learning and Neural Architecture Search](https://openaccess.thecvf.com/content_CVPR_2020/html/Guo_Organ_at_Risk_Segmentation_for_Head_and_Neck_Cancer_Using_CVPR_2020_paper.html)||
 |2020.08.12|郭栋|CVPR2020   |[MSG-GAN: Multi-Scale Gradients for Generative Adversarial Networks](https://openaccess.thecvf.com/content_CVPR_2020/papers/Karnewar_MSG-GAN_Multi-Scale_Gradients_for_Generative_Adversarial_Networks_CVPR_2020_paper.pdf)||
+|2020.08.19|顾然|CVPR2020   |[Unsupervised Intra-domain Adaptation for Semantic Segmentation through Self-Supervision](https://arxiv.org/pdf/2004.07703.pdf)|[Pytorch](https://github.com/feipan664/IntraDA)|
+|2020.08.19|王欢|CVPR2020   |[Squeeze-and-Attention Networks for Semantic Segmentation](https://arxiv.org/abs/1909.03402)||
+|2020.08.19|王欢|CVPR2020   |[Dynamic Convolution: Attention over Convolution Kernels](https://arxiv.org/abs/1912.03458)||
+|2020.08.19|王欢|CVPR2020   |[ECA-Net: Efficient Channel Attention for Deep Convolutional Neural Networks](https://arxiv.org/abs/1910.03151v4)||
 
 **[⬆ back to top](#组内资料分享)**
 
@@ -76,7 +80,8 @@ MICS online academic lectures
 |2020.06.16|唐晓颖| 高度形变微分同胚度量映射及其在神经影像和计算机视觉中的应用 | [Bilibili](https://www.bilibili.com/video/BV1PK4y1476e) |
 |2020.06.30|高飞| 光声成像：硬件系统启发的算法设计 | [Bilibili](https://www.bilibili.com/video/BV1Lt4y1977M) |
 |2020.07.18-19|MICS| 第七届医学图像计算青年研讨会 |[blibili](https://www.bilibili.com/video/BV14v411q7Ct) |
-|2020.07.30|[柏文佳](https://www.imperial.ac.uk/people/w.bai)| 机器学习在心脏图像分析中的应用 | [blibili](https://www.bilibili.com/video/BV1tv411v7d6) |
-|2020.08.11|郭翌| 基于深度学习的超声影像超分辨率重建及分析方法 | [blibili](https://www.bilibili.com/video/BV1Lh411d73f) |
+|2020.07.30|[柏文佳](https://www.imperial.ac.uk/people/w.bai)| 机器学习在心脏图像分析中的应用 | [Blibili](https://www.bilibili.com/video/BV1tv411v7d6) |
+|2020.08.11|郭翌| 基于深度学习的超声影像超分辨率重建及分析方法 | [Blibili](https://www.bilibili.com/video/BV1Lh411d73f) |
+|2020.08.25|[秦宸](https://www.eng.ed.ac.uk/about/people/dr-chen-qin)| 机器学习在核磁共振图像重构及分析中的研究 | [Blibili](https://www.bilibili.com/video/BV1Rz4y1f7xD) |
 
 **[⬆ back to top](#组内资料分享)**
