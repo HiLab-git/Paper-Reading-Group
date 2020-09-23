@@ -60,6 +60,8 @@ List shared papers in our group
 |2020.08.19|王欢|CVPR2020   |[Squeeze-and-Attention Networks for Semantic Segmentation](https://arxiv.org/abs/1909.03402)||
 |2020.08.19|王欢|CVPR2020   |[Dynamic Convolution: Attention over Convolution Kernels](https://arxiv.org/abs/1912.03458)||
 |2020.08.19|王欢|CVPR2020   |[ECA-Net: Efficient Channel Attention for Deep Convolutional Neural Networks](https://arxiv.org/abs/1910.03151v4)||
+|2020.09.2|梅昊陈|ECCV2020|[Semi-Supervised Segmentation based on Error-Correcting Supervision](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123740137.pdf)||
+|2020.09.2|付浩|ECCV2020|[CascadePSP: Toward Class-Agnostic and Very High-Resolution Segmentationvia Global and Local Refinement (http://hkchengad.student.ust.hk/CascadePSP/CascadePSP.pdf)|[Pytorch](https://github.com/hkchengrex/CascadePSP)|
 
 **[⬆ back to top](#组内资料分享)**
 
@@ -83,5 +85,6 @@ MICS online academic lectures
 |2020.07.30|[柏文佳](https://www.imperial.ac.uk/people/w.bai)| 机器学习在心脏图像分析中的应用 | [Blibili](https://www.bilibili.com/video/BV1tv411v7d6) |
 |2020.08.11|郭翌| 基于深度学习的超声影像超分辨率重建及分析方法 | [Blibili](https://www.bilibili.com/video/BV1Lh411d73f) |
 |2020.08.25|[秦宸](https://www.eng.ed.ac.uk/about/people/dr-chen-qin)| 机器学习在核磁共振图像重构及分析中的研究 | [Blibili](https://www.bilibili.com/video/BV1Rz4y1f7xD) |
+|2020.09.08|[何旭明](https://plus.sist.shanghaitech.edu.cn)| 关于图像语义分割和对齐问题中的弱监督策略 | [Blibili](https://www.bilibili.com/video/BV1tf4y1X7Hu) |
 
 **[⬆ back to top](#组内资料分享)**
