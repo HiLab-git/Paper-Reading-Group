@@ -86,5 +86,6 @@ MICS online academic lectures
 |2020.08.11|郭翌| 基于深度学习的超声影像超分辨率重建及分析方法 | [Blibili](https://www.bilibili.com/video/BV1Lh411d73f) |
 |2020.08.25|[秦宸](https://www.eng.ed.ac.uk/about/people/dr-chen-qin)| 机器学习在核磁共振图像重构及分析中的研究 | [Blibili](https://www.bilibili.com/video/BV1Rz4y1f7xD) |
 |2020.09.08|[何旭明](https://plus.sist.shanghaitech.edu.cn)| 关于图像语义分割和对齐问题中的弱监督策略 | [Blibili](https://www.bilibili.com/video/BV1tf4y1X7Hu) |
+|2020.09.22|高盛华| Encoding Structure-Texture Relation with P-Net for Anomaly Detection in Retinal Images | [Blibili](https://www.bilibili.com/video/BV1TK4y1Y7cb) |
 
 **[⬆ back to top](#组内资料分享)**
