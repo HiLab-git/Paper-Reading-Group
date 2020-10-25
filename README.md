@@ -60,9 +60,11 @@ List shared papers in our group
 |2020.08.19|王欢|CVPR2020   |[Squeeze-and-Attention Networks for Semantic Segmentation](https://arxiv.org/abs/1909.03402)||
 |2020.08.19|王欢|CVPR2020   |[Dynamic Convolution: Attention over Convolution Kernels](https://arxiv.org/abs/1912.03458)||
 |2020.08.19|王欢|CVPR2020   |[ECA-Net: Efficient Channel Attention for Deep Convolutional Neural Networks](https://arxiv.org/abs/1910.03151v4)||
-|2020.09.2|梅昊陈|ECCV2020|[Semi-Supervised Segmentation based on Error-Correcting Supervision](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123740137.pdf)||
-|2020.09.2|付浩|CVPR2020|[CascadePSP: Toward Class-Agnostic and Very High-Resolution Segmentationvia Global and Local Refinement](http://hkchengad.student.ust.hk/CascadePSP/CascadePSP.pdf)|[Pytorch](https://github.com/hkchengrex/CascadePSP)|
+|2020.09.02|梅昊陈|ECCV2020|[Semi-Supervised Segmentation based on Error-Correcting Supervision](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123740137.pdf)||
+|2020.09.02|付浩|CVPR2020|[CascadePSP: Toward Class-Agnostic and Very High-Resolution Segmentationvia Global and Local Refinement](http://hkchengad.student.ust.hk/CascadePSP/CascadePSP.pdf)|[Pytorch](https://github.com/hkchengrex/CascadePSP)|
 |2020.09.30|向东海|ICCV2019|[A2J: Anchor-to-Joint Regression Network for 3D Articulated Pose Estimation from a Single Depth Image](https://arxiv.org/abs/1908.09999)|[Pytorch](https://github.com/zhangboshen/A2J)|
+|2020.10.14|杨硕崛 郭栋|MIA|[Uncertainty-aware multi-view co-training for semi-supervised medical image segmentation and domain adaptation](https://www.sciencedirect.com/science/article/pii/S1361841520301304)||
+|2020.10.21|赵乾飞 雷文辉|TMI|[Knowledge-based Collaborative Deep Learning for Benign-Malignant Lung Nodule Classification on Chest CT](https://ieeexplore.ieee.org/document/8494708)||
 
 **[⬆ back to top](#组内资料分享)**
 
