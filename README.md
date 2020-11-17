@@ -53,18 +53,23 @@ List shared papers in our group
 |2020.07.29|许伟  |CVPR2020   |[PandaNet: Anchor-Based Single-Shot Multi-Person 3D Pose Estimation](https://openaccess.thecvf.com/content_CVPR_2020/html/Benzine_PandaNet_Anchor-Based_Single-Shot_Multi-Person_3D_Pose_Estimation_CVPR_2020_paper.html)||
 |2020.07.29|向东海|CVPR2020   |[Compressed Volumetric Heatmaps for Multi-Person 3D Pose Estimation](https://arxiv.org/abs/2004.00329)|[Pytorch](https://github.com/fabbrimatteo/LoCO)|
 |2020.08.05|刘保森|ECCV2020   |[BorderDet: Border Feature for Dense Object Detection](https://arxiv.org/abs/2007.11056)|[Pytorch](https://github.com/Megvii-BaseDetection/BorderDet)|
-|2020.08.05|王璐|ECCV2020   |[Unsupervised Sketch-to-Photo Synthesis](https://arxiv.org/abs/1909.08313)||
+|2020.08.05|王璐  |ECCV2020   |[Unsupervised Sketch-to-Photo Synthesis](https://arxiv.org/abs/1909.08313)||
 |2020.08.12|雷文辉|CVPR2020   |[Organ at Risk Segmentation for Head and Neck Cancer Using Stratified Learning and Neural Architecture Search](https://openaccess.thecvf.com/content_CVPR_2020/html/Guo_Organ_at_Risk_Segmentation_for_Head_and_Neck_Cancer_Using_CVPR_2020_paper.html)||
-|2020.08.12|郭栋|CVPR2020   |[MSG-GAN: Multi-Scale Gradients for Generative Adversarial Networks](https://openaccess.thecvf.com/content_CVPR_2020/papers/Karnewar_MSG-GAN_Multi-Scale_Gradients_for_Generative_Adversarial_Networks_CVPR_2020_paper.pdf)||
-|2020.08.19|顾然|CVPR2020   |[Unsupervised Intra-domain Adaptation for Semantic Segmentation through Self-Supervision](https://arxiv.org/pdf/2004.07703.pdf)|[Pytorch](https://github.com/feipan664/IntraDA)|
-|2020.08.19|王欢|CVPR2020   |[Squeeze-and-Attention Networks for Semantic Segmentation](https://arxiv.org/abs/1909.03402)||
-|2020.08.19|王欢|CVPR2020   |[Dynamic Convolution: Attention over Convolution Kernels](https://arxiv.org/abs/1912.03458)||
-|2020.08.19|王欢|CVPR2020   |[ECA-Net: Efficient Channel Attention for Deep Convolutional Neural Networks](https://arxiv.org/abs/1910.03151v4)||
-|2020.09.02|梅昊陈|ECCV2020|[Semi-Supervised Segmentation based on Error-Correcting Supervision](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123740137.pdf)||
-|2020.09.02|付浩|CVPR2020|[CascadePSP: Toward Class-Agnostic and Very High-Resolution Segmentationvia Global and Local Refinement](http://hkchengad.student.ust.hk/CascadePSP/CascadePSP.pdf)|[Pytorch](https://github.com/hkchengrex/CascadePSP)|
-|2020.09.30|向东海|ICCV2019|[A2J: Anchor-to-Joint Regression Network for 3D Articulated Pose Estimation from a Single Depth Image](https://arxiv.org/abs/1908.09999)|[Pytorch](https://github.com/zhangboshen/A2J)|
-|2020.10.14|杨硕崛 郭栋|MIA|[Uncertainty-aware multi-view co-training for semi-supervised medical image segmentation and domain adaptation](https://www.sciencedirect.com/science/article/pii/S1361841520301304)||
-|2020.10.21|赵乾飞 雷文辉|TMI|[Knowledge-based Collaborative Deep Learning for Benign-Malignant Lung Nodule Classification on Chest CT](https://ieeexplore.ieee.org/document/8494708)||
+|2020.08.12|郭栋  |CVPR2020   |[MSG-GAN: Multi-Scale Gradients for Generative Adversarial Networks](https://openaccess.thecvf.com/content_CVPR_2020/papers/Karnewar_MSG-GAN_Multi-Scale_Gradients_for_Generative_Adversarial_Networks_CVPR_2020_paper.pdf)||
+|2020.08.19|顾然  |CVPR2020   |[Unsupervised Intra-domain Adaptation for Semantic Segmentation through Self-Supervision](https://arxiv.org/pdf/2004.07703.pdf)|[Pytorch](https://github.com/feipan664/IntraDA)|
+|2020.08.19|王欢  |CVPR2020   |[Squeeze-and-Attention Networks for Semantic Segmentation](https://arxiv.org/abs/1909.03402)||
+|2020.08.19|王欢  |CVPR2020   |[Dynamic Convolution: Attention over Convolution Kernels](https://arxiv.org/abs/1912.03458)||
+|2020.08.19|王欢  |CVPR2020   |[ECA-Net: Efficient Channel Attention for Deep Convolutional Neural Networks](https://arxiv.org/abs/1910.03151v4)||
+|2020.09.02|梅昊陈|ECCV2020   |[Semi-Supervised Segmentation based on Error-Correcting Supervision](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123740137.pdf)||
+|2020.09.02|付浩  |CVPR2020   |[CascadePSP: Toward Class-Agnostic and Very High-Resolution Segmentationvia Global and Local Refinement](http://hkchengad.student.ust.hk/CascadePSP/CascadePSP.pdf)|[Pytorch](https://github.com/hkchengrex/CascadePSP)|
+|2020.09.30|向东海|ICCV2019   |[A2J: Anchor-to-Joint Regression Network for 3D Articulated Pose Estimation from a Single Depth Image](https://arxiv.org/abs/1908.09999)|[Pytorch](https://github.com/zhangboshen/A2J)|
+|2020.10.14|杨硕崛 郭栋|MIA   |[Uncertainty-aware multi-view co-training for semi-supervised medical image segmentation and domain adaptation](https://www.sciencedirect.com/science/article/pii/S1361841520301304)||
+|2020.10.21|赵乾飞 雷文辉|TMI |[Knowledge-based Collaborative Deep Learning for Benign-Malignant Lung Nodule Classification on Chest CT](https://ieeexplore.ieee.org/document/8494708)||
+|2020.11.04|翟书唯|TPAMI      |[Virtual Adversarial Training: A Regularization Method for Supervised and Semi-Supervised Learning](https://ieeexplore.ieee.org/document/8417973)||
+|2020.11.11|许伟  |CVPR2020   |[GaitPart: Temporal Part-Based Model for Gait Recognition](https://openaccess.thecvf.com/content_CVPR_2020/html/Fan_GaitPart_Temporal_Part-Based_Model_for_Gait_Recognition_CVPR_2020_paper.html)|[PyTorch](https://github.com/ChaoFan96/GaitPart)|
+|2020.11.11|付浩  |MICCAI2020 |[Semantic Hierarchy Guided Registration Networks for Intra-subject Pulmonary CT Image Alignment](https://link.springer.com/chapter/10.1007/978-3-030-59716-0_18)||
+|2020.11.11|付浩  |MICCAI2020 |[Large Deformation Diffeomorphic Image Registration with Laplacian Pyramid Networks](https://arxiv.org/abs/2006.16148)||
+|2020.11.11|付浩  |MICCAI2020 |[Unsupervised Learning Model for Registration of Multi-phase Ultra-Widefield Fluorescein Angiography](https://www.springerprofessional.de/en/unsupervised-learning-model-for-registration-of-multi-phase-ultr/18442980)||
 
 **[⬆ back to top](#组内资料分享)**
 
