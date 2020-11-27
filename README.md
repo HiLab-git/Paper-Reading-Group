@@ -70,6 +70,11 @@ List shared papers in our group
 |2020.11.11|付浩  |MICCAI2020 |[Semantic Hierarchy Guided Registration Networks for Intra-subject Pulmonary CT Image Alignment](https://link.springer.com/chapter/10.1007/978-3-030-59716-0_18)||
 |2020.11.11|付浩  |MICCAI2020 |[Large Deformation Diffeomorphic Image Registration with Laplacian Pyramid Networks](https://arxiv.org/abs/2006.16148)||
 |2020.11.11|付浩  |MICCAI2020 |[Unsupervised Learning Model for Registration of Multi-phase Ultra-Widefield Fluorescein Angiography](https://www.springerprofessional.de/en/unsupervised-learning-model-for-registration-of-multi-phase-ultr/18442980)||
+|2020.11.18|王欢  |MICCAI2020 |[Cascaded Robust Learning at Imperfect Labels for Chest X-ray Segmentation](https://link.springer.com/chapter/10.1007/978-3-030-59725-2_56)||
+|2020.11.18|王欢  |MICCAI2020 |[Robust Medical Image Segmentation from Non-expert Annotations with Tri-network](https://link.springer.com/chapter/10.1007/978-3-030-59719-1_25)||
+|2020.11.18|王璐  |MICCAI2020 |[Lesion Mask-Based Simultaneous Synthesis of Anatomic and Molecular MR Images Using a GAN](https://link.springer.com/chapter/10.1007/978-3-030-59713-9_11)||
+|2020.11.18|王璐  |MICCAI2020 |[AGAN: An Anatomy Corrector Conditional Generative Adversarial Network](https://link.springer.com/chapter/10.1007/978-3-030-59713-9_68)||
+|2020.11.18|王璐  |MICCAI2020 |[Graded Image Generation Using Stratified CycleGAN](https://link.springer.com/chapter/10.1007%2F978-3-030-59713-9_73)||
 
 **[⬆ back to top](#组内资料分享)**
 
