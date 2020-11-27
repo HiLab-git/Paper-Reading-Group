@@ -65,6 +65,7 @@ List shared papers in our group
 |2020.09.30|向东海|ICCV2019   |[A2J: Anchor-to-Joint Regression Network for 3D Articulated Pose Estimation from a Single Depth Image](https://arxiv.org/abs/1908.09999)|[Pytorch](https://github.com/zhangboshen/A2J)|
 |2020.10.14|杨硕崛 郭栋|MIA   |[Uncertainty-aware multi-view co-training for semi-supervised medical image segmentation and domain adaptation](https://www.sciencedirect.com/science/article/pii/S1361841520301304)||
 |2020.10.21|赵乾飞 雷文辉|TMI |[Knowledge-based Collaborative Deep Learning for Benign-Malignant Lung Nodule Classification on Chest CT](https://ieeexplore.ieee.org/document/8494708)||
+|2020.10.28|董桂铭 罗祥德|Arxiv|[Thickened 2D Networks for Efficient 3D Medical Image Segmentation](https://arxiv.org/abs/1904.01150)||
 |2020.11.04|翟书唯|TPAMI      |[Virtual Adversarial Training: A Regularization Method for Supervised and Semi-Supervised Learning](https://ieeexplore.ieee.org/document/8417973)||
 |2020.11.11|许伟  |CVPR2020   |[GaitPart: Temporal Part-Based Model for Gait Recognition](https://openaccess.thecvf.com/content_CVPR_2020/html/Fan_GaitPart_Temporal_Part-Based_Model_for_Gait_Recognition_CVPR_2020_paper.html)|[PyTorch](https://github.com/ChaoFan96/GaitPart)|
 |2020.11.11|付浩  |MICCAI2020 |[Semantic Hierarchy Guided Registration Networks for Intra-subject Pulmonary CT Image Alignment](https://link.springer.com/chapter/10.1007/978-3-030-59716-0_18)||
