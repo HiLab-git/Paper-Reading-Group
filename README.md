@@ -80,6 +80,13 @@ List shared papers in our group
 |2020.11.25|向东海|ECCV2020   |[JGR-P2O: Joint Graph Reasoning based Pixel-to-Offset Prediction Network for 3D Hand Pose Estimation from a Single Depth Image](https://arxiv.org/abs/2007.04646)||
 |2020.11.25|郭栋  |MICCAI2020 |[Joint Neuroimage Synthesis and Representation Learning for Conversion Prediction of Subjective Cognitive Decline](https://link.springer.com/chapter/10.1007/978-3-030-59728-3_57)||
 |2020.11.25|郭栋  |MICCAI2020 |[Brain MR to PET Synthesis via Bidirectional Generative Adversarial Network](https://link.springer.com/chapter/10.1007/978-3-030-59713-9_67)||
+|2020.12.09|王欢 翟书唯|TMI|[Post-DAE: Anatomically Plausible Segmentation via Post-Processing With Denoising Autoencoders](https://ieeexplore.ieee.org/document/9126830)||
+|2020.12.16|雷文辉 赵乾飞|MedIA|[‘Squeeze & excite’ guided few-shot segmentation of volumetric images](https://www.sciencedirect.com/science/article/pii/S1361841519301276)||
+|2020.12.23|杨硕崛 罗祥德|[ECCV2020|End-to-End Object Detection with Transformers](https://arxiv.org/abs/2005.12872)||
+|2020.12.30|董桂铭 王璐|TMI|[Multi-Domain Image Completion for Random Missing Input Data](https://ieeexplore.ieee.org/document/9302720)||
+|2021.01.06|向东海 许伟|TPAMI2020|[3D Hand Pose Estimation Using Synthetic Data and Weakly Labeled RGB Images](https://ieeexplore.ieee.org/document/9091090)||
+
+
 
 **[⬆ back to top](#组内资料分享)**
 
