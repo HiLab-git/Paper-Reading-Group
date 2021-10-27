@@ -85,7 +85,11 @@ List shared papers in our group
 |2020.12.23|杨硕崛 罗祥德|ECCV2020|[End-to-End Object Detection with Transformers](https://arxiv.org/abs/2005.12872)||
 |2020.12.30|董桂铭 王璐  |TMI|[Multi-Domain Image Completion for Random Missing Input Data](https://ieeexplore.ieee.org/document/9302720)||
 |2021.01.06|向东海 许伟  |TPAMI2020|[3D Hand Pose Estimation Using Synthetic Data and Weakly Labeled RGB Images](https://ieeexplore.ieee.org/document/9091090)||
-
+|2021.07.07|向东海 杨硕崛|CVPR2021|[CanonPose: Self-Supervised Monocular 3D Human Pose Estimation in the Wild](https://openaccess.thecvf.com/content/CVPR2021/papers/Wandt_CanonPose_Self-Supervised_Monocular_3D_Human_Pose_Estimation_in_the_Wild_CVPR_2021_paper.pdf )||
+|2021.07.14|赵乾飞 曲义杰|CVPR2021|[Coordinate Attention for Efficient Mobile Network Design](https://openaccess.thecvf.com/content/CVPR2021/papers/Hou_Coordinate_Attention_for_Efficient_Mobile_Network_Design_CVPR_2021_paper.pdf)||
+|2021.07.21|dejene 伍江浩|CVPR2021|[Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers](https://arxiv.org/abs/2012.15840  )||
+|2021.07.28|董桂铭 邹宝胜|CVPR2021|[ Involution: Inverting the Inherence of Convolution for Visual Recognition](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Involution_Inverting_the_Inherence_of_Convolution_for_Visual_Recognition_CVPR_2021_paper.pdf)||
+|2021.08.03|顾然 罗祥德|CVPR2021|[Uncertainty Reduction for Model Adaptation in Semantic Segmentation](https://openaccess.thecvf.com/content/CVPR2021/html/S_Uncertainty_Reduction_for_Model_Adaptation_in_Semantic_Segmentation_CVPR_2021_paper.html)||
 
 
 **[⬆ back to top](#组内资料分享)**
