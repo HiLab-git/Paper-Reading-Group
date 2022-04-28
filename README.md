@@ -94,8 +94,8 @@ List shared papers in our group
 |2021.03.31|顾然 邓杰|arxiv|.[Semantic Segmentation with Generative Models: Semi-Supervised Learning and Strong Out-of-Domain Generalization](https://arxiv.org/abs/2104.05833)||
 |2022.04.07|罗祥德 邹宝胜|arxiv|.[Generalizable Cross-modality Medical Image Segmentation via Style Augmentation and Dual Normalization](https://arxiv.org/pdf/2112.11177.pdf)||
 |2022.04.14|郭栋 王璐|CVPR2019|.[Semantic Image Synthesis with Spatially-Adaptive Normalization](https://arxiv.org/pdf/1903.07291.pdf)||
-|2022.04.21|付佳  钟岚烽|arxiv|.[Adaptive Early-Learning Correction for Segmentation from Noisy Annotations](https://arxiv.org/pdf/2110.03740.pdf}||
-|2022.04.28|付浩 翟书唯|arxiv|.[CycleMix: A Holistic Strategy for Medical Image Segmentation from Scribble Supervision](https://arxiv.org/pdf/2203.01475.pdf}||
+|2022.04.21|付佳  钟岚烽|arxiv|.[Adaptive Early-Learning Correction for Segmentation from Noisy Annotations](https://arxiv.org/pdf/2110.03740.pdf)||
+|2022.04.28|付浩 翟书唯|arxiv|.[CycleMix: A Holistic Strategy for Medical Image Segmentation from Scribble Supervision](https://arxiv.org/pdf/2203.01475.pdf)||
 
 **[⬆ back to top](#组内资料分享)**
 
