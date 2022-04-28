@@ -90,7 +90,12 @@ List shared papers in our group
 |2021.07.21|dejene 伍江浩|CVPR2021|[Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers](https://arxiv.org/abs/2012.15840  )||
 |2021.07.28|董桂铭 邹宝胜|CVPR2021|[ Involution: Inverting the Inherence of Convolution for Visual Recognition](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Involution_Inverting_the_Inherence_of_Convolution_for_Visual_Recognition_CVPR_2021_paper.pdf)||
 |2021.08.03|顾然 罗祥德|CVPR2021|[Uncertainty Reduction for Model Adaptation in Semantic Segmentation](https://openaccess.thecvf.com/content/CVPR2021/html/S_Uncertainty_Reduction_for_Model_Adaptation_in_Semantic_Segmentation_CVPR_2021_paper.html)||
-
+|2021.03.24|曲义杰 赵乾飞|CVPR2021|.[Revisiting Knowledge Distillation: An Inheritance and Exploration Framework](https://arxiv.org/pdf/2107.00181.pdf)||
+|2021.03.31|顾然 邓杰|arxiv|.[Semantic Segmentation with Generative Models: Semi-Supervised Learning and Strong Out-of-Domain Generalization](https://arxiv.org/abs/2104.05833)||
+|2022.04.07|罗祥德 邹宝胜|arxiv|.[Generalizable Cross-modality Medical Image Segmentation via Style Augmentation and Dual Normalization](https://arxiv.org/pdf/2112.11177.pdf)||
+|2022.04.14|郭栋 王璐|CVPR2019|.[Semantic Image Synthesis with Spatially-Adaptive Normalization](https://arxiv.org/pdf/1903.07291.pdf)||
+|2022.04.21|付佳  钟岚烽|arxiv|.[Adaptive Early-Learning Correction for Segmentation from Noisy Annotations](https://arxiv.org/pdf/2110.03740.pdf}||
+|2022.04.28|付浩 翟书唯|arxiv|.[CycleMix: A Holistic Strategy for Medical Image Segmentation from Scribble Supervision](https://arxiv.org/pdf/2203.01475.pdf}||
 
 **[⬆ back to top](#组内资料分享)**
 
