@@ -98,6 +98,18 @@ List shared papers in our group
 |2022.04.28|付浩 翟书唯|arxiv|.[CycleMix: A Holistic Strategy for Medical Image Segmentation from Scribble Supervision](https://arxiv.org/pdf/2203.01475.pdf)||
 |2022.05.11|向东海 魏洁|arxiv|.[ViM: Out-Of-Distribution with Virtual-logit Matching](https://arxiv.org/abs/2203.10807)||
 |2022.05.18|顾然 邓杰|AAAI2022|.[Single-domain Generalization in Medical Image Segmentation via Test-time Adaptation from Shape Dictionary](https://aaai-2022.virtualchair.net/poster_aaai852)||
+|2022.05.25|曲义杰 赵乾飞|arxiv|.[Self-Distillation from the Last Mini-Batch for Consistency Regularization](https://arxiv.org/pdf/2203.16172.pdf)||
+|2022.06.01|卢江山  韩梦|arxiv|.[Tree Energy Loss: Towards Sparsely Annotated Semantic Segmentation](https://arxiv.org/pdf/2203.10739.pdf)||
+|2022.06.08|董桂铭  邹宝胜|arxiv|.[NomMer: Nominate Synergistic Context in Vision Transformer for Visual Recognition](https://arxiv.org/abs/2111.12994)||
+|2022.06.15|罗祥德|arxiv|.[CT: Semi-supervised Domain-adaptive Medical Image Segmentation with Asymmetric Co-Training](https://arxiv.org/pdf/2206.02288.pdf)||
+|2022.06.28|钟岚烽 付佳|nature communications|.[Microscopy analysis neural network to solve detection, enumeration and segmentation from image-level annotations](https://www.nature.com/articles/s42256-022-00472-w.pdf)||
+|2022.07.05|刘鑫雅 伍江浩|nature communications|.[Glass-cutting medical images via a mechanical image segmentation method based on crack propagation](https://www.nature.com/articles/s41467-020-19392-7#code-availability)||
+|2022.07.12|魏洁 翟书唯|nature communications|.[Self-evolving vision transformer for chest X-ray diagnosis through knowledge distillation](https://www.nature.com/articles/s41467-022-31514-x)||
+|2022.07.19|卢江山 韩梦|nature communications|.[COVID-rate: an automated framework for segmentation of COVID-19 lesions from chest CT images](https://www.nature.com/articles/s41598-022-06854-9#Sec2)||
+|2022.07.26|曲义杰  赵乾飞|nature communications|.[Annotation-efficient deep learning for automatic medical image segmentation](https://doi.org/10.1038/s41467-021-26216-9)||
+|2022.08.02|顾然 邓杰|nature communications|.[A fully automatic AI system for tooth and alveolar bone segmentation from cone-beam CT images](https://www.nature.com/articles/s41467-022-29637-2)||
+|2022.08.09|董桂铭  邹宝胜|nature communications|.[A clinically applicable deep-learning model for detecting intracranial aneurysm in computed tomography angiography images](https://www.nature.com/articles/s41467-020-19527-w)||
+|2022.08.31|罗祥德| |.[Spatially-aware  Graph  Neural  Networks  Enable  Cross-level  Molecular  Profile  Prediction  in  Colon  Cancer  Histopathology:  A  Retrospective Multicentre Cohort Study ]( )||
 
 **[⬆ back to top](#组内资料分享)**
 
