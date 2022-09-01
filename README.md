@@ -97,6 +97,7 @@ List shared papers in our group
 |2022.04.21|付佳  钟岚烽|arxiv|.[Adaptive Early-Learning Correction for Segmentation from Noisy Annotations](https://arxiv.org/pdf/2110.03740.pdf)||
 |2022.04.28|付浩 翟书唯|arxiv|.[CycleMix: A Holistic Strategy for Medical Image Segmentation from Scribble Supervision](https://arxiv.org/pdf/2203.01475.pdf)||
 |2022.05.11|向东海 魏洁|arxiv|.[ViM: Out-Of-Distribution with Virtual-logit Matching](https://arxiv.org/abs/2203.10807)||
+|2022.05.18|顾然 邓杰|AAAI2022|.[Single-domain Generalization in Medical Image Segmentation via Test-time Adaptation from Shape Dictionary](https://aaai-2022.virtualchair.net/poster_aaai852)||
 
 **[⬆ back to top](#组内资料分享)**
 
