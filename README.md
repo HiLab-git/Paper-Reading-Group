@@ -90,26 +90,35 @@ List shared papers in our group
 |2021.07.21|dejene 伍江浩|CVPR2021|[Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers](https://arxiv.org/abs/2012.15840  )||
 |2021.07.28|董桂铭 邹宝胜|CVPR2021|[ Involution: Inverting the Inherence of Convolution for Visual Recognition](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Involution_Inverting_the_Inherence_of_Convolution_for_Visual_Recognition_CVPR_2021_paper.pdf)||
 |2021.08.03|顾然 罗祥德|CVPR2021|[Uncertainty Reduction for Model Adaptation in Semantic Segmentation](https://openaccess.thecvf.com/content/CVPR2021/html/S_Uncertainty_Reduction_for_Model_Adaptation_in_Semantic_Segmentation_CVPR_2021_paper.html)||
-|2021.03.24|曲义杰 赵乾飞|CVPR2021|.[Revisiting Knowledge Distillation: An Inheritance and Exploration Framework](https://arxiv.org/pdf/2107.00181.pdf)||
-|2021.03.31|顾然 邓杰|arxiv|.[Semantic Segmentation with Generative Models: Semi-Supervised Learning and Strong Out-of-Domain Generalization](https://arxiv.org/abs/2104.05833)||
-|2022.04.07|罗祥德 邹宝胜|arxiv|.[Generalizable Cross-modality Medical Image Segmentation via Style Augmentation and Dual Normalization](https://arxiv.org/pdf/2112.11177.pdf)||
-|2022.04.14|郭栋 王璐|CVPR2019|.[Semantic Image Synthesis with Spatially-Adaptive Normalization](https://arxiv.org/pdf/1903.07291.pdf)||
-|2022.04.21|付佳  钟岚烽|arxiv|.[Adaptive Early-Learning Correction for Segmentation from Noisy Annotations](https://arxiv.org/pdf/2110.03740.pdf)||
-|2022.04.28|付浩 翟书唯|arxiv|.[CycleMix: A Holistic Strategy for Medical Image Segmentation from Scribble Supervision](https://arxiv.org/pdf/2203.01475.pdf)||
-|2022.05.11|向东海 魏洁|arxiv|.[ViM: Out-Of-Distribution with Virtual-logit Matching](https://arxiv.org/abs/2203.10807)||
-|2022.05.18|顾然 邓杰|AAAI2022|.[Single-domain Generalization in Medical Image Segmentation via Test-time Adaptation from Shape Dictionary](https://aaai-2022.virtualchair.net/poster_aaai852)||
-|2022.05.25|曲义杰 赵乾飞|arxiv|.[Self-Distillation from the Last Mini-Batch for Consistency Regularization](https://arxiv.org/pdf/2203.16172.pdf)||
-|2022.06.01|卢江山  韩梦|arxiv|.[Tree Energy Loss: Towards Sparsely Annotated Semantic Segmentation](https://arxiv.org/pdf/2203.10739.pdf)||
-|2022.06.08|董桂铭  邹宝胜|arxiv|.[NomMer: Nominate Synergistic Context in Vision Transformer for Visual Recognition](https://arxiv.org/abs/2111.12994)||
-|2022.06.15|罗祥德|arxiv|.[CT: Semi-supervised Domain-adaptive Medical Image Segmentation with Asymmetric Co-Training](https://arxiv.org/pdf/2206.02288.pdf)||
-|2022.06.28|钟岚烽 付佳|nature communications|.[Microscopy analysis neural network to solve detection, enumeration and segmentation from image-level annotations](https://www.nature.com/articles/s42256-022-00472-w.pdf)||
-|2022.07.05|刘鑫雅 伍江浩|nature communications|.[Glass-cutting medical images via a mechanical image segmentation method based on crack propagation](https://www.nature.com/articles/s41467-020-19392-7#code-availability)||
-|2022.07.12|魏洁 翟书唯|nature communications|.[Self-evolving vision transformer for chest X-ray diagnosis through knowledge distillation](https://www.nature.com/articles/s41467-022-31514-x)||
-|2022.07.19|卢江山 韩梦|nature communications|.[COVID-rate: an automated framework for segmentation of COVID-19 lesions from chest CT images](https://www.nature.com/articles/s41598-022-06854-9#Sec2)||
-|2022.07.26|曲义杰  赵乾飞|nature communications|.[Annotation-efficient deep learning for automatic medical image segmentation](https://doi.org/10.1038/s41467-021-26216-9)||
-|2022.08.02|顾然 邓杰|nature communications|.[A fully automatic AI system for tooth and alveolar bone segmentation from cone-beam CT images](https://www.nature.com/articles/s41467-022-29637-2)||
-|2022.08.09|董桂铭  邹宝胜|nature communications|.[A clinically applicable deep-learning model for detecting intracranial aneurysm in computed tomography angiography images](https://www.nature.com/articles/s41467-020-19527-w)||
-|2022.08.31|罗祥德| |.[Spatially-aware  Graph  Neural  Networks  Enable  Cross-level  Molecular  Profile  Prediction  in  Colon  Cancer  Histopathology:  A  Retrospective Multicentre Cohort Study ]( )||
+|2021.03.24|曲义杰 赵乾飞|CVPR2021|[Revisiting Knowledge Distillation: An Inheritance and Exploration Framework](https://arxiv.org/pdf/2107.00181.pdf)||
+|2021.03.31|顾然 邓杰|arxiv|[Semantic Segmentation with Generative Models: Semi-Supervised Learning and Strong Out-of-Domain Generalization](https://arxiv.org/abs/2104.05833)||
+|2022.04.07|罗祥德 邹宝胜|arxiv|[Generalizable Cross-modality Medical Image Segmentation via Style Augmentation and Dual Normalization](https://arxiv.org/pdf/2112.11177.pdf)||
+|2022.04.14|郭栋 王璐|CVPR2019|[Semantic Image Synthesis with Spatially-Adaptive Normalization](https://arxiv.org/pdf/1903.07291.pdf)||
+|2022.04.21|付佳  钟岚烽|arxiv|[Adaptive Early-Learning Correction for Segmentation from Noisy Annotations](https://arxiv.org/pdf/2110.03740.pdf)||
+|2022.04.28|付浩 翟书唯|arxiv|[CycleMix: A Holistic Strategy for Medical Image Segmentation from Scribble Supervision](https://arxiv.org/pdf/2203.01475.pdf)||
+|2022.05.11|向东海 魏洁|arxiv|[ViM: Out-Of-Distribution with Virtual-logit Matching](https://arxiv.org/abs/2203.10807)||
+|2022.05.18|顾然 邓杰|AAAI2022|[Single-domain Generalization in Medical Image Segmentation via Test-time Adaptation from Shape Dictionary](https://aaai-2022.virtualchair.net/poster_aaai852)||
+|2022.05.25|曲义杰 赵乾飞|arxiv|[Self-Distillation from the Last Mini-Batch for Consistency Regularization](https://arxiv.org/pdf/2203.16172.pdf)||
+|2022.06.01|卢江山  韩梦|arxiv|[Tree Energy Loss: Towards Sparsely Annotated Semantic Segmentation](https://arxiv.org/pdf/2203.10739.pdf)||
+|2022.06.08|董桂铭  邹宝胜|arxiv|[NomMer: Nominate Synergistic Context in Vision Transformer for Visual Recognition](https://arxiv.org/abs/2111.12994)||
+|2022.06.15|罗祥德|arxiv|[CT: Semi-supervised Domain-adaptive Medical Image Segmentation with Asymmetric Co-Training](https://arxiv.org/pdf/2206.02288.pdf)||
+|2022.06.28|钟岚烽 付佳|nature communications|[Microscopy analysis neural network to solve detection, enumeration and segmentation from image-level annotations](https://www.nature.com/articles/s42256-022-00472-w.pdf)||
+|2022.07.05|刘鑫雅 伍江浩|nature communications|[Glass-cutting medical images via a mechanical image segmentation method based on crack propagation](https://www.nature.com/articles/s41467-020-19392-7#code-availability)||
+|2022.07.12|魏洁 翟书唯|nature communications|[Self-evolving vision transformer for chest X-ray diagnosis through knowledge distillation](https://www.nature.com/articles/s41467-022-31514-x)||
+|2022.07.19|卢江山 韩梦|nature communications|[COVID-rate: an automated framework for segmentation of COVID-19 lesions from chest CT images](https://www.nature.com/articles/s41598-022-06854-9#Sec2)||
+|2022.07.26|曲义杰  赵乾飞|nature communications|[Annotation-efficient deep learning for automatic medical image segmentation](https://doi.org/10.1038/s41467-021-26216-9)||
+|2022.08.02|顾然 邓杰|nature communications|[A fully automatic AI system for tooth and alveolar bone segmentation from cone-beam CT images](https://www.nature.com/articles/s41467-022-29637-2)||
+|2022.08.09|董桂铭  邹宝胜|nature communications|[A clinically applicable deep-learning model for detecting intracranial aneurysm in computed tomography angiography images](https://www.nature.com/articles/s41467-020-19527-w)||
+|2022.08.31|罗祥德| |[Spatially-aware  Graph  Neural  Networks  Enable  Cross-level  Molecular  Profile  Prediction  in  Colon  Cancer  Histopathology:  A  Retrospective Multicentre Cohort Study ]( )||
+|2022.09.29|邹宝胜|MICCAI 2022|[Momentum Contrastive Voxel-Wise Representation Learning for Semi-supervised Volumetric Medical Image Segmentation](https://arxiv.org/pdf/2105.07059.pdf)||
+|2022.09.29|罗祥德|MICCAI 2022|[Semi-supervised Medical Image Segmentation Using Cross-Model Pseudo-Supervision with Shape Awareness and Local Context Constraints](https://link.springer.com/content/pdf/10.1007/978-3-031-16452-1_14.pdf)||
+|2022.09.29|韩梦|MICCAI 2022|[Scribble2D5: Weakly-Supervised Volumetric Image Segmentation via Scribble Annotations](https://link.springer.com/content/pdf/10.1007/978-3-031-16452-1_23.pdf)||
+|2022.10.08|顾然|MICCAI 2022|[Domain Specific Convolution and High Frequency Reconstruction Based Unsupervised Domain Adaptation for Medical Image Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-16449-1_62)||
+|2022.10.08|伍江浩|MICCAI 2022|[Test-Time Adaptation with Shape Moments for Image Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-16440-8_70)||
+|2022.10.08|钟岚峰|MICCAI 2022|[Semi-supervised Histological Image Segmentation via Hierarchical Consistency Enforcement](https://link.springer.com/chapter/10.1007/978-3-031-16434-7_1)||
+|2022.10.13|魏洁|MICCAI 2022|[Out-of-Distribution Detection for Long-Tailed and Fine-Grained Skin Lesion Images](https://arxiv.org/abs/2206.15186)||
+|2022.10.13|曲义杰|MICCAI 2022|[DeSD: Self-Supervised Learning with DeepSelf-Distillation for 3D Medical ImageSegmentation](https://link.springer.com/chapter/10.1007/978-3-031-16440-8_52)||
+|2022.10.13|邓杰|MICCAI 2022|[Leveraging Labeling Representations in Uncertainty-Based Semi-supervised Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-16452-1_26)||
 
 **[⬆ back to top](#组内资料分享)**
 
