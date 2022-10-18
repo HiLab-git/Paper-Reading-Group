@@ -111,13 +111,13 @@ List shared papers in our group
 |2022.08.09|董桂铭  邹宝胜|nature communications|[A clinically applicable deep-learning model for detecting intracranial aneurysm in computed tomography angiography images](https://www.nature.com/articles/s41467-020-19527-w)||
 |2022.08.31|罗祥德| |[Spatially-aware  Graph  Neural  Networks  Enable  Cross-level  Molecular  Profile  Prediction  in  Colon  Cancer  Histopathology:  A  Retrospective Multicentre Cohort Study ]( )||
 |2022.09.29|邹宝胜|MICCAI 2022|[Momentum Contrastive Voxel-Wise Representation Learning for Semi-supervised Volumetric Medical Image Segmentation](https://arxiv.org/pdf/2105.07059.pdf)||
-|2022.09.29|罗祥德|MICCAI 2022|[Semi-supervised Medical Image Segmentation Using Cross-Model Pseudo-Supervision with Shape Awareness and Local Context Constraints](https://link.springer.com/content/pdf/10.1007/978-3-031-16452-1_14.pdf)||
-|2022.09.29|韩梦|MICCAI 2022|[Scribble2D5: Weakly-Supervised Volumetric Image Segmentation via Scribble Annotations](https://link.springer.com/content/pdf/10.1007/978-3-031-16452-1_23.pdf)||
-|2022.10.08|顾然|MICCAI 2022|[Domain Specific Convolution and High Frequency Reconstruction Based Unsupervised Domain Adaptation for Medical Image Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-16449-1_62)||
-|2022.10.08|伍江浩|MICCAI 2022|[Test-Time Adaptation with Shape Moments for Image Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-16440-8_70)||
+|2022.09.29|罗祥德|MICCAI 2022|[Semi-supervised Medical Image Segmentation Using Cross-Model Pseudo-Supervision with Shape Awareness and Local Context Constraints](https://link.springer.com/content/pdf/10.1007/978-3-031-16452-1_14.pdf)|[Pytorch](https://github.com/igip-liu/SLC-Net/tree/main/code)|
+|2022.09.29|韩梦|MICCAI 2022|[Scribble2D5: Weakly-Supervised Volumetric Image Segmentation via Scribble Annotations](https://link.springer.com/content/pdf/10.1007/978-3-031-16452-1_23.pdf)|[Pytorch](https://github.com/Qybc/Scribble2D5)|
+|2022.10.08|顾然|MICCAI 2022|[Domain Specific Convolution and High Frequency Reconstruction Based Unsupervised Domain Adaptation for Medical Image Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-16449-1_62)|[Pytorch](https://github.com/ShishuaiHu/DoCR)|
+|2022.10.08|伍江浩|MICCAI 2022|[Test-Time Adaptation with Shape Moments for Image Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-16440-8_70)|[Pytorch](https://github.com/mathilde-b/TTA)|
 |2022.10.08|钟岚峰|MICCAI 2022|[Semi-supervised Histological Image Segmentation via Hierarchical Consistency Enforcement](https://link.springer.com/chapter/10.1007/978-3-031-16434-7_1)||
-|2022.10.13|魏洁|MICCAI 2022|[Out-of-Distribution Detection for Long-Tailed and Fine-Grained Skin Lesion Images](https://arxiv.org/abs/2206.15186)||
-|2022.10.13|曲义杰|MICCAI 2022|[DeSD: Self-Supervised Learning with DeepSelf-Distillation for 3D Medical ImageSegmentation](https://link.springer.com/chapter/10.1007/978-3-031-16440-8_52)||
+|2022.10.13|魏洁|MICCAI 2022|[Out-of-Distribution Detection for Long-Tailed and Fine-Grained Skin Lesion Images](https://arxiv.org/abs/2206.15186)|[Pytorch](https://github.com/DevD1092/ood-skin-lesion)|
+|2022.10.13|曲义杰|MICCAI 2022|[DeSD: Self-Supervised Learning with DeepSelf-Distillation for 3D Medical ImageSegmentation](https://link.springer.com/chapter/10.1007/978-3-031-16440-8_52)|[Code](https://github.com/yeerwen/DeSD)|
 |2022.10.13|邓杰|MICCAI 2022|[Leveraging Labeling Representations in Uncertainty-Based Semi-supervised Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-16452-1_26)||
 
 **[⬆ back to top](#组内资料分享)**
