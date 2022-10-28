@@ -119,6 +119,9 @@ List shared papers in our group
 |2022.10.13|魏洁|MICCAI 2022|[Out-of-Distribution Detection for Long-Tailed and Fine-Grained Skin Lesion Images](https://arxiv.org/abs/2206.15186)|[Pytorch](https://github.com/DevD1092/ood-skin-lesion)|
 |2022.10.13|曲义杰|MICCAI 2022|[DeSD: Self-Supervised Learning with DeepSelf-Distillation for 3D Medical ImageSegmentation](https://link.springer.com/chapter/10.1007/978-3-031-16440-8_52)|[Code](https://github.com/yeerwen/DeSD)|
 |2022.10.13|邓杰|MICCAI 2022|[Leveraging Labeling Representations in Uncertainty-Based Semi-supervised Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-16452-1_26)||
+|2022.10.27|付佳|MICCAI 2022|[Layer Ensembles: A Single-Pass Uncertainty Estimation in Deep Learning for Segmentation](https://arxiv.org/pdf/2203.08878.pdf)|[Pytorch](https://github.com/pianoza/LayerEnsembles)|
+|2022.10.27|卢江山|MICCAI 2022|[Adversarial Consistency for Single Domain Generalization in Medical Image Segmentation](https://arxiv.org/pdf/2206.13737.pdf)||
+|2022.10.27|刘鑫雅|MICCAI 2022|[Test-time Adaptation with Calibration of Medical Image Classification Nets for Label Distribution Shift](https://arxiv.org/pdf/2207.00769.pdf)|[Pytorch](https://github.com/med-air/TTADC)|
 
 **[⬆ back to top](#组内资料分享)**
 
