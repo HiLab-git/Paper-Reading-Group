@@ -63,9 +63,9 @@ List shared papers in our group
 |2020.09.02|梅昊陈|ECCV2020   |[Semi-Supervised Segmentation based on Error-Correcting Supervision](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123740137.pdf)||
 |2020.09.02|付浩  |CVPR2020   |[CascadePSP: Toward Class-Agnostic and Very High-Resolution Segmentationvia Global and Local Refinement](http://hkchengad.student.ust.hk/CascadePSP/CascadePSP.pdf)|[Pytorch](https://github.com/hkchengrex/CascadePSP)|
 |2020.09.30|向东海|ICCV2019   |[A2J: Anchor-to-Joint Regression Network for 3D Articulated Pose Estimation from a Single Depth Image](https://arxiv.org/abs/1908.09999)|[Pytorch](https://github.com/zhangboshen/A2J)|
-|2020.10.14|杨硕崛 郭栋|MIA   |[Uncertainty-aware multi-view co-training for semi-supervised medical image segmentation and domain adaptation](https://www.sciencedirect.com/science/article/pii/S1361841520301304)||
-|2020.10.21|赵乾飞 雷文辉|TMI |[Knowledge-based Collaborative Deep Learning for Benign-Malignant Lung Nodule Classification on Chest CT](https://ieeexplore.ieee.org/document/8494708)||
-|2020.10.28|董桂铭 罗祥德|Arxiv|[Thickened 2D Networks for Efficient 3D Medical Image Segmentation](https://arxiv.org/abs/1904.01150)||
+|2020.10.14|杨硕崛<br>郭栋|MIA   |[Uncertainty-aware multi-view co-training for semi-supervised medical image segmentation and domain adaptation](https://www.sciencedirect.com/science/article/pii/S1361841520301304)||
+|2020.10.21|赵乾飞<br>雷文辉|TMI |[Knowledge-based Collaborative Deep Learning for Benign-Malignant Lung Nodule Classification on Chest CT](https://ieeexplore.ieee.org/document/8494708)||
+|2020.10.28|董桂铭<br>罗祥德|Arxiv|[Thickened 2D Networks for Efficient 3D Medical Image Segmentation](https://arxiv.org/abs/1904.01150)||
 |2020.11.04|翟书唯|TPAMI      |[Virtual Adversarial Training: A Regularization Method for Supervised and Semi-Supervised Learning](https://ieeexplore.ieee.org/document/8417973)||
 |2020.11.11|许伟  |CVPR2020   |[GaitPart: Temporal Part-Based Model for Gait Recognition](https://openaccess.thecvf.com/content_CVPR_2020/html/Fan_GaitPart_Temporal_Part-Based_Model_for_Gait_Recognition_CVPR_2020_paper.html)|[PyTorch](https://github.com/ChaoFan96/GaitPart)|
 |2020.11.11|付浩  |MICCAI2020 |[Semantic Hierarchy Guided Registration Networks for Intra-subject Pulmonary CT Image Alignment](https://link.springer.com/chapter/10.1007/978-3-030-59716-0_18)||
@@ -80,35 +80,35 @@ List shared papers in our group
 |2020.11.25|向东海|ECCV2020   |[JGR-P2O: Joint Graph Reasoning based Pixel-to-Offset Prediction Network for 3D Hand Pose Estimation from a Single Depth Image](https://arxiv.org/abs/2007.04646)||
 |2020.11.25|郭栋  |MICCAI2020 |[Joint Neuroimage Synthesis and Representation Learning for Conversion Prediction of Subjective Cognitive Decline](https://link.springer.com/chapter/10.1007/978-3-030-59728-3_57)||
 |2020.11.25|郭栋  |MICCAI2020 |[Brain MR to PET Synthesis via Bidirectional Generative Adversarial Network](https://link.springer.com/chapter/10.1007/978-3-030-59713-9_67)||
-|2020.12.09|翟书唯 王欢  |TMI|[Post-DAE: Anatomically Plausible Segmentation via Post-Processing With Denoising Autoencoders](https://ieeexplore.ieee.org/document/9126830)||
-|2020.12.16|雷文辉 赵乾飞|MedIA|[‘Squeeze & excite’ guided few-shot segmentation of volumetric images](https://www.sciencedirect.com/science/article/pii/S1361841519301276)||
-|2020.12.23|杨硕崛 罗祥德|ECCV2020|[End-to-End Object Detection with Transformers](https://arxiv.org/abs/2005.12872)||
-|2020.12.30|董桂铭 王璐  |TMI|[Multi-Domain Image Completion for Random Missing Input Data](https://ieeexplore.ieee.org/document/9302720)||
-|2021.01.06|向东海 许伟  |TPAMI2020|[3D Hand Pose Estimation Using Synthetic Data and Weakly Labeled RGB Images](https://ieeexplore.ieee.org/document/9091090)||
-|2021.07.07|向东海 杨硕崛|CVPR2021|[CanonPose: Self-Supervised Monocular 3D Human Pose Estimation in the Wild](https://openaccess.thecvf.com/content/CVPR2021/papers/Wandt_CanonPose_Self-Supervised_Monocular_3D_Human_Pose_Estimation_in_the_Wild_CVPR_2021_paper.pdf )||
-|2021.07.14|赵乾飞 曲义杰|CVPR2021|[Coordinate Attention for Efficient Mobile Network Design](https://openaccess.thecvf.com/content/CVPR2021/papers/Hou_Coordinate_Attention_for_Efficient_Mobile_Network_Design_CVPR_2021_paper.pdf)||
-|2021.07.21|dejene 伍江浩|CVPR2021|[Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers](https://arxiv.org/abs/2012.15840  )||
-|2021.07.28|董桂铭 邹宝胜|CVPR2021|[ Involution: Inverting the Inherence of Convolution for Visual Recognition](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Involution_Inverting_the_Inherence_of_Convolution_for_Visual_Recognition_CVPR_2021_paper.pdf)||
-|2021.08.03|顾然 罗祥德|CVPR2021|[Uncertainty Reduction for Model Adaptation in Semantic Segmentation](https://openaccess.thecvf.com/content/CVPR2021/html/S_Uncertainty_Reduction_for_Model_Adaptation_in_Semantic_Segmentation_CVPR_2021_paper.html)||
-|2021.03.24|曲义杰 赵乾飞|CVPR2021|[Revisiting Knowledge Distillation: An Inheritance and Exploration Framework](https://arxiv.org/pdf/2107.00181.pdf)||
-|2021.03.31|顾然 邓杰|arxiv|[Semantic Segmentation with Generative Models: Semi-Supervised Learning and Strong Out-of-Domain Generalization](https://arxiv.org/abs/2104.05833)||
-|2022.04.07|罗祥德 邹宝胜|arxiv|[Generalizable Cross-modality Medical Image Segmentation via Style Augmentation and Dual Normalization](https://arxiv.org/pdf/2112.11177.pdf)||
-|2022.04.14|郭栋 王璐|CVPR2019|[Semantic Image Synthesis with Spatially-Adaptive Normalization](https://arxiv.org/pdf/1903.07291.pdf)||
-|2022.04.21|付佳  钟岚烽|arxiv|[Adaptive Early-Learning Correction for Segmentation from Noisy Annotations](https://arxiv.org/pdf/2110.03740.pdf)||
-|2022.04.28|付浩 翟书唯|arxiv|[CycleMix: A Holistic Strategy for Medical Image Segmentation from Scribble Supervision](https://arxiv.org/pdf/2203.01475.pdf)||
-|2022.05.11|向东海 魏洁|arxiv|[ViM: Out-Of-Distribution with Virtual-logit Matching](https://arxiv.org/abs/2203.10807)||
-|2022.05.18|顾然 邓杰|AAAI2022|[Single-domain Generalization in Medical Image Segmentation via Test-time Adaptation from Shape Dictionary](https://aaai-2022.virtualchair.net/poster_aaai852)||
-|2022.05.25|曲义杰 赵乾飞|arxiv|[Self-Distillation from the Last Mini-Batch for Consistency Regularization](https://arxiv.org/pdf/2203.16172.pdf)||
-|2022.06.01|卢江山  韩梦|arxiv|[Tree Energy Loss: Towards Sparsely Annotated Semantic Segmentation](https://arxiv.org/pdf/2203.10739.pdf)||
-|2022.06.08|董桂铭  邹宝胜|arxiv|[NomMer: Nominate Synergistic Context in Vision Transformer for Visual Recognition](https://arxiv.org/abs/2111.12994)||
+|2020.12.09|翟书唯<br>王欢  |TMI|[Post-DAE: Anatomically Plausible Segmentation via Post-Processing With Denoising Autoencoders](https://ieeexplore.ieee.org/document/9126830)||
+|2020.12.16|雷文辉<br>赵乾飞|MedIA|[‘Squeeze & excite’ guided few-shot segmentation of volumetric images](https://www.sciencedirect.com/science/article/pii/S1361841519301276)||
+|2020.12.23|杨硕崛<br>罗祥德|ECCV2020|[End-to-End Object Detection with Transformers](https://arxiv.org/abs/2005.12872)||
+|2020.12.30|董桂铭<br>王璐  |TMI|[Multi-Domain Image Completion for Random Missing Input Data](https://ieeexplore.ieee.org/document/9302720)||
+|2021.01.06|向东海<br>许伟  |TPAMI2020|[3D Hand Pose Estimation Using Synthetic Data and Weakly Labeled RGB Images](https://ieeexplore.ieee.org/document/9091090)||
+|2021.07.07|向东海<br>杨硕崛|CVPR2021|[CanonPose: Self-Supervised Monocular 3D Human Pose Estimation in the Wild](https://openaccess.thecvf.com/content/CVPR2021/papers/Wandt_CanonPose_Self-Supervised_Monocular_3D_Human_Pose_Estimation_in_the_Wild_CVPR_2021_paper.pdf )||
+|2021.07.14|赵乾飞<br>曲义杰|CVPR2021|[Coordinate Attention for Efficient Mobile Network Design](https://openaccess.thecvf.com/content/CVPR2021/papers/Hou_Coordinate_Attention_for_Efficient_Mobile_Network_Design_CVPR_2021_paper.pdf)||
+|2021.07.21|dejene<br>伍江浩|CVPR2021|[Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers](https://arxiv.org/abs/2012.15840  )||
+|2021.07.28|董桂铭<br>邹宝胜|CVPR2021|[ Involution: Inverting the Inherence of Convolution for Visual Recognition](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Involution_Inverting_the_Inherence_of_Convolution_for_Visual_Recognition_CVPR_2021_paper.pdf)||
+|2021.08.03|顾然<br>罗祥德|CVPR2021|[Uncertainty Reduction for Model Adaptation in Semantic Segmentation](https://openaccess.thecvf.com/content/CVPR2021/html/S_Uncertainty_Reduction_for_Model_Adaptation_in_Semantic_Segmentation_CVPR_2021_paper.html)||
+|2021.03.24|曲义杰<br>赵乾飞|CVPR2021|[Revisiting Knowledge Distillation: An Inheritance and Exploration Framework](https://arxiv.org/pdf/2107.00181.pdf)||
+|2021.03.31|顾然<br>邓杰|arxiv|[Semantic Segmentation with Generative Models: Semi-Supervised Learning and Strong Out-of-Domain Generalization](https://arxiv.org/abs/2104.05833)||
+|2022.04.07|罗祥德<br>邹宝胜|arxiv|[Generalizable Cross-modality Medical Image Segmentation via Style Augmentation and Dual Normalization](https://arxiv.org/pdf/2112.11177.pdf)||
+|2022.04.14|郭栋<br>王璐|CVPR2019|[Semantic Image Synthesis with Spatially-Adaptive Normalization](https://arxiv.org/pdf/1903.07291.pdf)||
+|2022.04.21|付佳<br>钟岚烽|arxiv|[Adaptive Early-Learning Correction for Segmentation from Noisy Annotations](https://arxiv.org/pdf/2110.03740.pdf)||
+|2022.04.28|付浩<br>翟书唯|arxiv|[CycleMix: A Holistic Strategy for Medical Image Segmentation from Scribble Supervision](https://arxiv.org/pdf/2203.01475.pdf)||
+|2022.05.11|向东海<br>魏洁|arxiv|[ViM: Out-Of-Distribution with Virtual-logit Matching](https://arxiv.org/abs/2203.10807)||
+|2022.05.18|顾然<br>邓杰|AAAI2022|[Single-domain Generalization in Medical Image Segmentation via Test-time Adaptation from Shape Dictionary](https://aaai-2022.virtualchair.net/poster_aaai852)||
+|2022.05.25|曲义杰<br>赵乾飞|arxiv|[Self-Distillation from the Last Mini-Batch for Consistency Regularization](https://arxiv.org/pdf/2203.16172.pdf)||
+|2022.06.01|卢江山<br>韩梦|arxiv|[Tree Energy Loss: Towards Sparsely Annotated Semantic Segmentation](https://arxiv.org/pdf/2203.10739.pdf)||
+|2022.06.08|董桂铭<br>邹宝胜|arxiv|[NomMer: Nominate Synergistic Context in Vision Transformer for Visual Recognition](https://arxiv.org/abs/2111.12994)||
 |2022.06.15|罗祥德|arxiv|[CT: Semi-supervised Domain-adaptive Medical Image Segmentation with Asymmetric Co-Training](https://arxiv.org/pdf/2206.02288.pdf)||
-|2022.06.28|钟岚烽 付佳|nature communications|[Microscopy analysis neural network to solve detection, enumeration and segmentation from image-level annotations](https://www.nature.com/articles/s42256-022-00472-w.pdf)||
-|2022.07.05|刘鑫雅 伍江浩|nature communications|[Glass-cutting medical images via a mechanical image segmentation method based on crack propagation](https://www.nature.com/articles/s41467-020-19392-7#code-availability)||
-|2022.07.12|魏洁 翟书唯|nature communications|[Self-evolving vision transformer for chest X-ray diagnosis through knowledge distillation](https://www.nature.com/articles/s41467-022-31514-x)||
-|2022.07.19|卢江山 韩梦|nature communications|[COVID-rate: an automated framework for segmentation of COVID-19 lesions from chest CT images](https://www.nature.com/articles/s41598-022-06854-9#Sec2)||
-|2022.07.26|曲义杰  赵乾飞|nature communications|[Annotation-efficient deep learning for automatic medical image segmentation](https://doi.org/10.1038/s41467-021-26216-9)||
-|2022.08.02|顾然 邓杰|nature communications|[A fully automatic AI system for tooth and alveolar bone segmentation from cone-beam CT images](https://www.nature.com/articles/s41467-022-29637-2)||
-|2022.08.09|董桂铭  邹宝胜|nature communications|[A clinically applicable deep-learning model for detecting intracranial aneurysm in computed tomography angiography images](https://www.nature.com/articles/s41467-020-19527-w)||
+|2022.06.28|钟岚烽<br>付佳|nature communications|[Microscopy analysis neural network to solve detection, enumeration and segmentation from image-level annotations](https://www.nature.com/articles/s42256-022-00472-w.pdf)||
+|2022.07.05|刘鑫雅<br>伍江浩|nature communications|[Glass-cutting medical images via a mechanical image segmentation method based on crack propagation](https://www.nature.com/articles/s41467-020-19392-7#code-availability)||
+|2022.07.12|魏洁<br>翟书唯|nature communications|[Self-evolving vision transformer for chest X-ray diagnosis through knowledge distillation](https://www.nature.com/articles/s41467-022-31514-x)||
+|2022.07.19|卢江山<br>韩梦|nature communications|[COVID-rate: an automated framework for segmentation of COVID-19 lesions from chest CT images](https://www.nature.com/articles/s41598-022-06854-9#Sec2)||
+|2022.07.26|曲义杰<br>赵乾飞|nature communications|[Annotation-efficient deep learning for automatic medical image segmentation](https://doi.org/10.1038/s41467-021-26216-9)||
+|2022.08.02|顾然<br>邓杰|nature communications|[A fully automatic AI system for tooth and alveolar bone segmentation from cone-beam CT images](https://www.nature.com/articles/s41467-022-29637-2)||
+|2022.08.09|董桂铭<br>邹宝胜|nature communications|[A clinically applicable deep-learning model for detecting intracranial aneurysm in computed tomography angiography images](https://www.nature.com/articles/s41467-020-19527-w)||
 |2022.08.31|罗祥德| |[Spatially-aware  Graph  Neural  Networks  Enable  Cross-level  Molecular  Profile  Prediction  in  Colon  Cancer  Histopathology:  A  Retrospective Multicentre Cohort Study ]( )||
 |2022.09.29|邹宝胜|MICCAI 2022|[Momentum Contrastive Voxel-Wise Representation Learning for Semi-supervised Volumetric Medical Image Segmentation](https://arxiv.org/pdf/2105.07059.pdf)||
 |2022.09.29|罗祥德|MICCAI 2022|[Semi-supervised Medical Image Segmentation Using Cross-Model Pseudo-Supervision with Shape Awareness and Local Context Constraints](https://link.springer.com/content/pdf/10.1007/978-3-031-16452-1_14.pdf)|[Pytorch](https://github.com/igip-liu/SLC-Net/tree/main/code)|
@@ -122,7 +122,7 @@ List shared papers in our group
 |2022.10.27|付佳|MICCAI 2022|[Layer Ensembles: A Single-Pass Uncertainty Estimation in Deep Learning for Segmentation](https://arxiv.org/pdf/2203.08878.pdf)|[Pytorch](https://github.com/pianoza/LayerEnsembles)|
 |2022.10.27|卢江山|MICCAI 2022|[Adversarial Consistency for Single Domain Generalization in Medical Image Segmentation](https://arxiv.org/pdf/2206.13737.pdf)||
 |2022.10.27|刘鑫雅|MICCAI 2022|[Test-time Adaptation with Calibration of Medical Image Classification Nets for Label Distribution Shift](https://arxiv.org/pdf/2207.00769.pdf)|[Pytorch](https://github.com/med-air/TTADC)|
-|2022.11.03|曲义杰  赵乾飞|MedIA|[Mutual consistency learning for semi-supervised medical image segmentation](https://www.sciencedirect.com/science/article/pii/S1361841522001773?fr=RR-2&ref=pdf_download&rr=761bbb8b0a270461)|[Pytorch](https://github.com/ycwu1997/MC-Net)|
+|2022.11.03|曲义杰<br>赵乾飞|MedIA|[Mutual consistency learning for semi-supervised medical image segmentation](https://www.sciencedirect.com/science/article/pii/S1361841522001773?fr=RR-2&ref=pdf_download&rr=761bbb8b0a270461)|[Pytorch](https://github.com/ycwu1997/MC-Net)|
 
 
 **[⬆ back to top](#组内资料分享)**
