@@ -123,7 +123,7 @@ List shared papers in our group
 |2022.10.27|卢江山|MICCAI 2022|[Adversarial Consistency for Single Domain Generalization in Medical Image Segmentation](https://arxiv.org/pdf/2206.13737.pdf)||
 |2022.10.27|刘鑫雅|MICCAI 2022|[Test-time Adaptation with Calibration of Medical Image Classification Nets for Label Distribution Shift](https://arxiv.org/pdf/2207.00769.pdf)|[Pytorch](https://github.com/med-air/TTADC)|
 |2022.11.03|曲义杰<br>赵乾飞|MedIA|[Mutual consistency learning for semi-supervised medical image segmentation](https://www.sciencedirect.com/science/article/pii/S1361841522001773?fr=RR-2&ref=pdf_download&rr=761bbb8b0a270461)|[Pytorch](https://github.com/ycwu1997/MC-Net)|
-
+|2022.11.10|伍江浩<br>邹宝胜|TMI|[LE-UDA: Label-efficient unsupervised domain adaptation for medical image segmentation](https://ieeexplore.ieee.org/abstract/document/9919170)||
 
 **[⬆ back to top](#组内资料分享)**
 
