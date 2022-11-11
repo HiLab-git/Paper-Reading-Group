@@ -10,33 +10,33 @@ List shared papers in our group
 
 |Date|Speaker|Paper source|Title|Code|
 |---|:---:|:--|---|:-:|
-|2022.11.10|伍江浩<br>邹宝胜|TMI|[LE-UDA: Label-efficient unsupervised domain adaptation for medical image segmentation](https://ieeexplore.ieee.org/abstract/document/9919170)||
-|2022.11.03|曲义杰<br>赵乾飞|MedIA|[Mutual consistency learning for semi-supervised medical image segmentation](https://www.sciencedirect.com/science/article/pii/S1361841522001773?fr=RR-2&ref=pdf_download&rr=761bbb8b0a270461)|[Pytorch](https://github.com/ycwu1997/MC-Net)|
+|2022.11.10|伍江浩<br>邹宝胜|TMI (Early Access)|[LE-UDA: Label-efficient unsupervised domain adaptation for medical image segmentation](https://ieeexplore.ieee.org/abstract/document/9919170)||
+|2022.11.03|曲义杰<br>赵乾飞|MedIA 2022|[Mutual consistency learning for semi-supervised medical image segmentation](https://www.sciencedirect.com/science/article/pii/S1361841522001773?fr=RR-2&ref=pdf_download&rr=761bbb8b0a270461)|[Pytorch](https://github.com/ycwu1997/MC-Net)|
 |2022.10.27|卢江山|MICCAI 2022|[Adversarial Consistency for Single Domain Generalization in Medical Image Segmentation](https://arxiv.org/pdf/2206.13737.pdf)||
 |2022.10.27|刘鑫雅|MICCAI 2022|[Test-time Adaptation with Calibration of Medical Image Classification Nets for Label Distribution Shift](https://arxiv.org/pdf/2207.00769.pdf)|[Pytorch](https://github.com/med-air/TTADC)|
 |2022.10.27|付佳|MICCAI 2022|[Layer Ensembles: A Single-Pass Uncertainty Estimation in Deep Learning for Segmentation](https://arxiv.org/pdf/2203.08878.pdf)|[Pytorch](https://github.com/pianoza/LayerEnsembles)|
 |2022.10.13|魏洁|MICCAI 2022|[Out-of-Distribution Detection for Long-Tailed and Fine-Grained Skin Lesion Images](https://arxiv.org/abs/2206.15186)|[Pytorch](https://github.com/DevD1092/ood-skin-lesion)|
 |2022.10.13|曲义杰|MICCAI 2022|[DeSD: Self-Supervised Learning with DeepSelf-Distillation for 3D Medical ImageSegmentation](https://link.springer.com/chapter/10.1007/978-3-031-16440-8_52)|[Code](https://github.com/yeerwen/DeSD)|
-|2022.10.13|dejene|MICCAI 2022|[Leveraging Labeling Representations in Uncertainty-Based Semi-supervised Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-16452-1_26)||
+|2022.10.13|Dejene|MICCAI 2022|[Leveraging Labeling Representations in Uncertainty-Based Semi-supervised Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-16452-1_26)||
 |2022.10.08|钟岚峰|MICCAI 2022|[Semi-supervised Histological Image Segmentation via Hierarchical Consistency Enforcement](https://link.springer.com/chapter/10.1007/978-3-031-16434-7_1)||
 |2022.10.08|伍江浩|MICCAI 2022|[Test-Time Adaptation with Shape Moments for Image Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-16440-8_70)|[Pytorch](https://github.com/mathilde-b/TTA)|
 |2022.10.08|顾然|MICCAI 2022|[Domain Specific Convolution and High Frequency Reconstruction Based Unsupervised Domain Adaptation for Medical Image Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-16449-1_62)|[Pytorch](https://github.com/ShishuaiHu/DoCR)|
 |2022.09.29|邹宝胜|MICCAI 2022|[Momentum Contrastive Voxel-Wise Representation Learning for Semi-supervised Volumetric Medical Image Segmentation](https://arxiv.org/pdf/2105.07059.pdf)||
 |2022.09.29|罗祥德|MICCAI 2022|[Semi-supervised Medical Image Segmentation Using Cross-Model Pseudo-Supervision with Shape Awareness and Local Context Constraints](https://link.springer.com/content/pdf/10.1007/978-3-031-16452-1_14.pdf)|[Pytorch](https://github.com/igip-liu/SLC-Net/tree/main/code)|
 |2022.09.29|韩梦|MICCAI 2022|[Scribble2D5: Weakly-Supervised Volumetric Image Segmentation via Scribble Annotations](https://link.springer.com/content/pdf/10.1007/978-3-031-16452-1_23.pdf)|[Pytorch](https://github.com/Qybc/Scribble2D5)|
-|2022.08.31|罗祥德| |[Spatially-aware  Graph  Neural  Networks  Enable  Cross-level  Molecular  Profile  Prediction  in  Colon  Cancer  Histopathology:  A  Retrospective Multicentre Cohort Study ]( )||
-|2022.08.09|董桂铭<br>邹宝胜|nature communications|[A clinically applicable deep-learning model for detecting intracranial aneurysm in computed tomography angiography images](https://www.nature.com/articles/s41467-020-19527-w)||
-|2022.08.02|顾然<br>dejene|nature communications|[A fully automatic AI system for tooth and alveolar bone segmentation from cone-beam CT images](https://www.nature.com/articles/s41467-022-29637-2)||
-|2022.07.26|曲义杰<br>赵乾飞|nature communications|[Annotation-efficient deep learning for automatic medical image segmentation](https://doi.org/10.1038/s41467-021-26216-9)||
-|2022.07.19|卢江山<br>韩梦|nature communications|[COVID-rate: an automated framework for segmentation of COVID-19 lesions from chest CT images](https://www.nature.com/articles/s41598-022-06854-9#Sec2)||
-|2022.07.12|魏洁<br>翟书唯|nature communications|[Self-evolving vision transformer for chest X-ray diagnosis through knowledge distillation](https://www.nature.com/articles/s41467-022-31514-x)||
-|2022.07.05|刘鑫雅<br>伍江浩|nature communications|[Glass-cutting medical images via a mechanical image segmentation method based on crack propagation](https://www.nature.com/articles/s41467-020-19392-7#code-availability)||
-|2022.06.28|钟岚烽<br>付佳|nature communications|[Microscopy analysis neural network to solve detection, enumeration and segmentation from image-level annotations](https://www.nature.com/articles/s42256-022-00472-w.pdf)||
+|2022.08.31|罗祥德|The Lancet Digital Health |[Spatially-aware  Graph  Neural  Networks  Enable  Cross-level  Molecular  Profile  Prediction  in  Colon  Cancer  Histopathology: A  Retrospective Multicentre Cohort Study ](https://www.sciencedirect.com/science/article/pii/S2589750022001686)||
+|2022.08.09|董桂铭<br>邹宝胜|Nature communications|[A clinically applicable deep-learning model for detecting intracranial aneurysm in computed tomography angiography images](https://www.nature.com/articles/s41467-020-19527-w)||
+|2022.08.02|顾然<br>Dejene|Nature communications|[A fully automatic AI system for tooth and alveolar bone segmentation from cone-beam CT images](https://www.nature.com/articles/s41467-022-29637-2)||
+|2022.07.26|曲义杰<br>赵乾飞|Nature communications|[Annotation-efficient deep learning for automatic medical image segmentation](https://doi.org/10.1038/s41467-021-26216-9)||
+|2022.07.19|卢江山<br>韩梦|Nature communications|[COVID-rate: an automated framework for segmentation of COVID-19 lesions from chest CT images](https://www.nature.com/articles/s41598-022-06854-9#Sec2)||
+|2022.07.12|魏洁<br>翟书唯|Nature communications|[Self-evolving vision transformer for chest X-ray diagnosis through knowledge distillation](https://www.nature.com/articles/s41467-022-31514-x)||
+|2022.07.05|刘鑫雅<br>伍江浩|Nature communications|[Glass-cutting medical images via a mechanical image segmentation method based on crack propagation](https://www.nature.com/articles/s41467-020-19392-7#code-availability)||
+|2022.06.28|钟岚烽<br>付佳|Nature communications|[Microscopy analysis neural network to solve detection, enumeration and segmentation from image-level annotations](https://www.nature.com/articles/s42256-022-00472-w.pdf)||
 |2022.06.15|罗祥德|arxiv|[CT: Semi-supervised Domain-adaptive Medical Image Segmentation with Asymmetric Co-Training](https://arxiv.org/pdf/2206.02288.pdf)||
 |2022.06.08|董桂铭<br>邹宝胜|arxiv|[NomMer: Nominate Synergistic Context in Vision Transformer for Visual Recognition](https://arxiv.org/abs/2111.12994)||
 |2022.06.01|卢江山<br>韩梦|arxiv|[Tree Energy Loss: Towards Sparsely Annotated Semantic Segmentation](https://arxiv.org/pdf/2203.10739.pdf)||
 |2022.05.25|曲义杰<br>赵乾飞|arxiv|[Self-Distillation from the Last Mini-Batch for Consistency Regularization](https://arxiv.org/pdf/2203.16172.pdf)||
-|2022.05.18|顾然<br>dejene|AAAI2022|[Single-domain Generalization in Medical Image Segmentation via Test-time Adaptation from Shape Dictionary](https://aaai-2022.virtualchair.net/poster_aaai852)||
+|2022.05.18|顾然<br>Dejene|AAAI2022|[Single-domain Generalization in Medical Image Segmentation via Test-time Adaptation from Shape Dictionary](https://aaai-2022.virtualchair.net/poster_aaai852)||
 |2022.05.11|向东海<br>魏洁|arxiv|[ViM: Out-Of-Distribution with Virtual-logit Matching](https://arxiv.org/abs/2203.10807)||
 |2022.04.28|付浩<br>翟书唯|arxiv|[CycleMix: A Holistic Strategy for Medical Image Segmentation from Scribble Supervision](https://arxiv.org/pdf/2203.01475.pdf)||
 |2022.04.21|付佳<br>钟岚烽|arxiv|[Adaptive Early-Learning Correction for Segmentation from Noisy Annotations](https://arxiv.org/pdf/2110.03740.pdf)||
@@ -44,10 +44,10 @@ List shared papers in our group
 |2022.04.07|罗祥德<br>邹宝胜|arxiv|[Generalizable Cross-modality Medical Image Segmentation via Style Augmentation and Dual Normalization](https://arxiv.org/pdf/2112.11177.pdf)||
 |2021.08.03|顾然<br>罗祥德|CVPR2021|[Uncertainty Reduction for Model Adaptation in Semantic Segmentation](https://openaccess.thecvf.com/content/CVPR2021/html/S_Uncertainty_Reduction_for_Model_Adaptation_in_Semantic_Segmentation_CVPR_2021_paper.html)||
 |2021.07.28|董桂铭<br>邹宝胜|CVPR2021|[ Involution: Inverting the Inherence of Convolution for Visual Recognition](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Involution_Inverting_the_Inherence_of_Convolution_for_Visual_Recognition_CVPR_2021_paper.pdf)||
-|2021.07.21|dejene<br>伍江浩|CVPR2021|[Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers](https://arxiv.org/abs/2012.15840  )||
+|2021.07.21|Dejene<br>伍江浩|CVPR2021|[Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers](https://arxiv.org/abs/2012.15840  )||
 |2021.07.14|赵乾飞<br>曲义杰|CVPR2021|[Coordinate Attention for Efficient Mobile Network Design](https://openaccess.thecvf.com/content/CVPR2021/papers/Hou_Coordinate_Attention_for_Efficient_Mobile_Network_Design_CVPR_2021_paper.pdf)||
 |2021.07.07|向东海<br>杨硕崛|CVPR2021|[CanonPose: Self-Supervised Monocular 3D Human Pose Estimation in the Wild](https://openaccess.thecvf.com/content/CVPR2021/papers/Wandt_CanonPose_Self-Supervised_Monocular_3D_Human_Pose_Estimation_in_the_Wild_CVPR_2021_paper.pdf )||
-|2021.03.31|顾然<br>dejene|arxiv|[Semantic Segmentation with Generative Models: Semi-Supervised Learning and Strong Out-of-Domain Generalization](https://arxiv.org/abs/2104.05833)||
+|2021.03.31|顾然<br>Dejene|arxiv|[Semantic Segmentation with Generative Models: Semi-Supervised Learning and Strong Out-of-Domain Generalization](https://arxiv.org/abs/2104.05833)||
 |2021.03.24|曲义杰<br>赵乾飞|CVPR2021|[Revisiting Knowledge Distillation: An Inheritance and Exploration Framework](https://arxiv.org/pdf/2107.00181.pdf)||
 |2021.01.06|向东海<br>许伟  |TPAMI2020|[3D Hand Pose Estimation Using Synthetic Data and Weakly Labeled RGB Images](https://ieeexplore.ieee.org/document/9091090)||
 |2020.12.30|董桂铭<br>王璐  |TMI|[Multi-Domain Image Completion for Random Missing Input Data](https://ieeexplore.ieee.org/document/9302720)||
@@ -107,16 +107,14 @@ List shared papers in our group
 |2019.12.18|向东海|{IEEE} Trans.Mutimedia |[Multi-Person Pose Estimation Using Bounding Box Constraint and LSTM](https://ieeexplore.ieee.org/document/8662702?denied=)| |
 |2019.12.11|王璐  |TMI        |[Retinal Image Synthesis and Semi-Supervised Learning for Glaucoma Assessment](https://www.researchgate.net/publication/331600377_Retinal_Image_Synthesis_and_Semi-Supervised_Learning_for_Glaucoma_Assessment)| |
 |2019.12.11|雷文辉|MedIA      |[Self-supervised learning for medical image analysis using image context restoration](https://www.sciencedirect.com/science/article/abs/pii/S1361841518304699)| |
-|2019.12.04|王欢  |TMI/Neurocomputing |Recalibrating Fully Convolutional Networks with Spatial and Channel ‘Squeeze & Excitation’ Blocks| |
-|2019.12.04|付浩  |TMI        |Progressively trained convolutional neural networks for deformable image registration| |
-|2019.11.27|罗祥德|TMI2019    |A 3D Spatially-Weighted Network for Segmentation of Brain Tissue from MRI| |
+|2019.12.04|王欢  |TMI/Neurocomputing |[Recalibrating Fully Convolutional Networks with Spatial and Channel ‘Squeeze & Excitation’ Blocks](https://ieeexplore.ieee.org/abstract/document/8447284)| |
+|2019.12.04|付浩  |TMI2019        |[Progressively trained convolutional neural networks for deformable image registration](https://ieeexplore.ieee.org/abstract/document/8902170)| |
+|2019.11.27|罗祥德|TMI2019    |[A 3D Spatially-Weighted Network for Segmentation of Brain Tissue from MRI](https://ieeexplore.ieee.org/abstract/document/8811612)| |
 |2019.11.27|顾然  |TMI2019    |[Boundary-weighted Domain Adaptive Neural Network for Prostate MR Image Segmentation](https://arxiv.org/abs/1902.08128)| |
 |2019.11.20|付浩  |ICCV2019   |[Recursive Cascaded Networks for Unsupervised Medical Image Registration](https://arxiv.org/abs/1907.12353)|[Tensorflow](https://github.com/microsoft/Recursive-Cascaded-Networks)|
-|2019.11.20|	  |           || |
 |2019.11.13|许伟  |ICCV2019   |[HEMlets Pose: Learning Part-Centric Heatmap Triplets for Accurate 3D Human Pose Estimation](https://arxiv.org/abs/1910.12032)| |
 |2019.11.13|向东海|ICCV2019   |[Cross View Fusion for 3D Human Pose Estimation](https://arxiv.org/abs/1909.01203)|[Pytorch](https://github.com/microsoft/multiview-human-pose-estimation-pytorch)|
 |2019.11.06|刘保森|ICCV2019   |[SinGAN: Learning a Generative Model from a Single Natural Image](https://arxiv.org/abs/1905.01164)|[Pytorch](https://github.com/tamarott/SinGAN)|
-|2019.11.06|      |           || |
 |2019.10.30|王璐  |MICCAI2019 |[ET-Net: A Generic Edge-aTtention Guidance Network for Medical Image Segmentation](https://arxiv.org/abs/1907.10936)|[Pytorch](https://github.com/ZzzjzzZ/ETNet)|
 |2019.10.30|郭栋  |MICCAI2019 |[Pairwise Semantic Segmentation via Conjugate Fully Convolutional Network](https://link.springer.com/chapter/10.1007/978-3-030-32226-7_18)| |
 |2019.10.23|梅昊陈|MICCAI     |[1.Improved Inference via Deep Input Transfer](https://arxiv.org/abs/1904.02307)  [2.Pick-and-Learn: Automatic Quality Evaluation for Noisy-Labeled Image Segmentation](https://arxiv.org/abs/1907.11835)| |
