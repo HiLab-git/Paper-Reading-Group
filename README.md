@@ -10,6 +10,7 @@ List shared papers in our group
 
 |Date|Speaker|Paper source|Title|Code|
 |---|:---:|:--|---|:-:|
+|2022.11.17|魏洁<br>翟书唯|MedIA 2022|[Distance-based detection of out-of-distribution silent failures for Covid-19 lung lesion segmentation](https://www.sciencedirect.com/science/article/pii/S1361841522002298)||
 |2022.11.10|伍江浩<br>邹宝胜|TMI (Early Access)|[LE-UDA: Label-efficient unsupervised domain adaptation for medical image segmentation](https://ieeexplore.ieee.org/abstract/document/9919170)||
 |2022.11.03|曲义杰<br>赵乾飞|MedIA 2022|[Mutual consistency learning for semi-supervised medical image segmentation](https://www.sciencedirect.com/science/article/pii/S1361841522001773?fr=RR-2&ref=pdf_download&rr=761bbb8b0a270461)|[Pytorch](https://github.com/ycwu1997/MC-Net)|
 |2022.10.27|卢江山|MICCAI 2022|[Adversarial Consistency for Single Domain Generalization in Medical Image Segmentation](https://arxiv.org/pdf/2206.13737.pdf)||
