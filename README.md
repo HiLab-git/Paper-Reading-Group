@@ -10,6 +10,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper source|Title|Code|
 |---|:---:|:--|---|:-:|
+|2022.12.01|韩梦<br>卢江山|TMI 2022|[SimCVD: Simple Contrastive Voxel-Wise Representation Distillation for Semi-Supervised Medical Image Segmentation](https://ieeexplore.ieee.org/document/9740182)||
+|2022.11.24|付佳<br>钟岚烽|MedIA 2022|[Semi-supervised medical image segmentation via a tripled-uncertainty guided mean teacher model with contrastive learning](https://www.sciencedirect.com/science/article/pii/S1361841522000925)|[Pytorch](https://github.com/DeepMedLab/Tri-U-MT)|
 |2022.11.17|魏洁<br>翟书唯|MedIA 2022|[Distance-based detection of out-of-distribution silent failures for Covid-19 lung lesion segmentation](https://www.sciencedirect.com/science/article/pii/S1361841522002298)||
 |2022.11.10|伍江浩<br>邹宝胜|TMI (Early Access)|[LE-UDA: Label-efficient unsupervised domain adaptation for medical image segmentation](https://ieeexplore.ieee.org/abstract/document/9919170)||
 |2022.11.03|曲义杰<br>赵乾飞|MedIA 2022|[Mutual consistency learning for semi-supervised medical image segmentation](https://www.sciencedirect.com/science/article/pii/S1361841522001773?fr=RR-2&ref=pdf_download&rr=761bbb8b0a270461)|[Pytorch](https://github.com/ycwu1997/MC-Net)|
