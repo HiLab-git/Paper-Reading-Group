@@ -10,6 +10,9 @@ List shared papers in our group
 
 |Date|Speaker|Paper source|Title|Code|
 |---|:---:|:--|---|:-:|
+|2022.12.29|罗祥德<br>付佳|MIA 2022|[Segmentation with mixed supervision: Confidence maximization helps knowledge distillation](https://www.sciencedirect.com/science/article/abs/pii/S1361841522002985)|[Pytorch](https://github.com/by-liu/ConfKD)|
+|2022.12.22|顾然<br>Dejene|MIA 2022|[Rethinking adversarial domain adaptation: Orthogonal decomposition for unsupervised domain adaptation in medical image segmentation](https://www.sciencedirect.com/science/article/abs/pii/S1361841522002511)|[Pytorch](https://github.com/YonghengSun1997/ODADA)|
+|2022.12.08|刘鑫雅<br>董桂铭|TMI 2022|[DLTTA: Dynamic Learning Rate for Test-Time Adaptation on Cross-Domain Medical Images](https://ieeexplore.ieee.org/document/9830762)|[Pytorch](https://github.com/med-air/DLTTA)|
 |2022.12.01|韩梦<br>卢江山|TMI 2022|[SimCVD: Simple Contrastive Voxel-Wise Representation Distillation for Semi-Supervised Medical Image Segmentation](https://ieeexplore.ieee.org/document/9740182)||
 |2022.11.24|付佳<br>钟岚烽|MedIA 2022|[Semi-supervised medical image segmentation via a tripled-uncertainty guided mean teacher model with contrastive learning](https://www.sciencedirect.com/science/article/pii/S1361841522000925)|[Pytorch](https://github.com/DeepMedLab/Tri-U-MT)|
 |2022.11.17|魏洁<br>翟书唯|MedIA 2022|[Distance-based detection of out-of-distribution silent failures for Covid-19 lung lesion segmentation](https://www.sciencedirect.com/science/article/pii/S1361841522002298)||
