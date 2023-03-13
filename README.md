@@ -10,6 +10,9 @@ List shared papers in our group
 
 |Date|Speaker|Paper source|Title|Code|
 |---|:---:|:--|---|:-:|
+|2023.03.02|伍江浩<br>刘鑫雅|AAAI 2023|[Decorate the Newcomers: Visual Domain Prompt for Continual Test Time Adaptation](https://arxiv.org/abs/2212.04145)||
+|2023.02.23|曲义杰<br>董桂铭|CVPR 2022|[Decoupled Knowledge Distillation](https://openaccess.thecvf.com/content/CVPR2022/html/Zhao_Decoupled_Knowledge_Distillation_CVPR_2022_paper.html)|[PyTorch](https://github.com/megvii-research/mdistiller)|
+|2023.02.16|魏洁<br>翟书唯|TMI 2021|[Anomaly Detection for Medical Images Using Self-Supervised and Translation-Consistent Features](https://ieeexplore.ieee.org/document/9469869)||
 |2022.12.29|罗祥德<br>付佳|MIA 2022|[Segmentation with mixed supervision: Confidence maximization helps knowledge distillation](https://www.sciencedirect.com/science/article/abs/pii/S1361841522002985)|[Pytorch](https://github.com/by-liu/ConfKD)|
 |2022.12.22|顾然<br>Dejene|MIA 2022|[Rethinking adversarial domain adaptation: Orthogonal decomposition for unsupervised domain adaptation in medical image segmentation](https://www.sciencedirect.com/science/article/abs/pii/S1361841522002511)|[Pytorch](https://github.com/YonghengSun1997/ODADA)|
 |2022.12.08|刘鑫雅<br>董桂铭|TMI 2022|[DLTTA: Dynamic Learning Rate for Test-Time Adaptation on Cross-Domain Medical Images](https://ieeexplore.ieee.org/document/9830762)|[Pytorch](https://github.com/med-air/DLTTA)|
