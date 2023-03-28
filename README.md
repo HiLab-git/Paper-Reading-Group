@@ -10,6 +10,9 @@ List shared papers in our group
 
 |Date|Speaker|Paper source|Title|Code|
 |---|:---:|:--|---|:-:|
+|2023.03.27|韩梦<br>卢江山|arXiv|[CLIP is Also an Efficient Segmenter: A Text-Driven Approach for Weakly Supervised Semantic Segmentation](https://arxiv.org/pdf/2212.09506.pdf)|[Pytorch](https://github.com/linyq2117/CLIP-ES)|
+|2023.03.20|付佳<br>钟岚烽|ECCV 2022|[A Simple Baseline for Open-Vocabulary Semantic Segmentation with Pre-trained Vision-language Model](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136890725.pdf)|[Pytorch](https://github.com/MendelXu/zsseg.baseline)|
+|2023.03.16|赵乾飞<br>邹宝胜|arXiv|[CLIP-Driven Universal Model for Organ Segmentation and Tumor Detection](https://arxiv.org/abs/2301.00785v1)|[Pytorch](https://github.com/ljwztc/CLIP-Driven-Universal-Model)|
 |2023.03.02|伍江浩<br>刘鑫雅|AAAI 2023|[Decorate the Newcomers: Visual Domain Prompt for Continual Test Time Adaptation](https://arxiv.org/abs/2212.04145)||
 |2023.02.23|曲义杰<br>董桂铭|CVPR 2022|[Decoupled Knowledge Distillation](https://openaccess.thecvf.com/content/CVPR2022/html/Zhao_Decoupled_Knowledge_Distillation_CVPR_2022_paper.html)|[PyTorch](https://github.com/megvii-research/mdistiller)|
 |2023.02.16|魏洁<br>翟书唯|TMI 2021|[Anomaly Detection for Medical Images Using Self-Supervised and Translation-Consistent Features](https://ieeexplore.ieee.org/document/9469869)||
