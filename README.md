@@ -10,6 +10,12 @@ List shared papers in our group
 
 |Date|Speaker|Paper source|Title|Code|
 |---|:---:|:--|---|:-:|
+|2023.05.15|韩梦<br>卢江山|CVPR 2022|[CRIS: CLIP-Driven Referring Image Segmentation](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_CRIS_CLIP-Driven_Referring_Image_Segmentation_CVPR_2022_paper.pdf)||
+|2023.05.08|刘鑫雅<br>伍江浩|CVPR 2023|[Delving into Shape-aware Zero-shot Semantic Segmentation](https://arxiv.org/pdf/2304.08491.pdf)|[Pytorch](https://github.com/Liuxinyv/SAZS)|
+|2023.04.24|魏洁<br>翟书唯|CVPR 2022|[High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/pdf/2112.10752.pdf)|[Pytorch](https://github.com/CompVis/latent-diffusion)|
+|2023.04.17|顾然<br>Dejene|arXiv|[Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection](https://arxiv.org/pdf/2303.05499.pdf)|[Pytorch](https://github.com/IDEA-Research/GroundingDINO)|
+|2023.04.10|罗祥德<br>赵乾飞|arXiv|[Segment Anything](https://arxiv.org/pdf/2304.02643.pdf)|[Pytorch](https://github.com/facebookresearch/segment-anything)|
+|2023.04.03|邹宝胜<br>曲义杰|CVPR 2022|[GroupViT: Semantic Segmentation Emerges from Text Supervision](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_GroupViT_Semantic_Segmentation_Emerges_From_Text_Supervision_CVPR_2022_paper.pdf)|[Pytorch](https://github.com/NVlabs/GroupViT)|
 |2023.03.27|韩梦<br>卢江山|arXiv|[CLIP is Also an Efficient Segmenter: A Text-Driven Approach for Weakly Supervised Semantic Segmentation](https://arxiv.org/pdf/2212.09506.pdf)|[Pytorch](https://github.com/linyq2117/CLIP-ES)|
 |2023.03.20|付佳<br>钟岚烽|ECCV 2022|[A Simple Baseline for Open-Vocabulary Semantic Segmentation with Pre-trained Vision-language Model](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136890725.pdf)|[Pytorch](https://github.com/MendelXu/zsseg.baseline)|
 |2023.03.16|赵乾飞<br>邹宝胜|arXiv|[CLIP-Driven Universal Model for Organ Segmentation and Tumor Detection](https://arxiv.org/abs/2301.00785v1)|[Pytorch](https://github.com/ljwztc/CLIP-Driven-Universal-Model)|
