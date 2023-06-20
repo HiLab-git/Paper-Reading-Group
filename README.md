@@ -10,6 +10,9 @@ List shared papers in our group
 
 |Date|Speaker|Paper source|Title|Code|
 |---|:---:|:--|---|:-:|
+|2023.06.19|付佳<br>钟岚烽|CVPR 2023|[Revisiting Weak-to-Strong Consistency in Semi-Supervised Semantic Segmentation](https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_Revisiting_Weak-to-Strong_Consistency_in_Semi-Supervised_Semantic_Segmentation_CVPR_2023_paper.pdf)|[Pytorch](https://github.com/LiheYoung/UniMatch)|
+|2023.06.19|罗祥德<br>钟岚烽|CVPR 2023|[Weakly supervised segmentation with point annotations for histopathology images via contrast-based variational model](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Weakly_Supervised_Segmentation_With_Point_Annotations_for_Histopathology_Images_via_CVPR_2023_paper.pdf)|[Not available](https://github.com/hrzhang1123/CVM_WS_Segmentation)|
+|2023.05.22|付佳<br>钟岚烽|ICLR 2023|[Diffusion Adversarial Representation Learning for Self-supervised Vessel Segmentation](https://arxiv.org/pdf/2209.14566.pdf)|[Pytorch](https://github.com/boahK/DARL)|
 |2023.05.15|韩梦<br>卢江山|CVPR 2022|[CRIS: CLIP-Driven Referring Image Segmentation](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_CRIS_CLIP-Driven_Referring_Image_Segmentation_CVPR_2022_paper.pdf)||
 |2023.05.08|刘鑫雅<br>伍江浩|CVPR 2023|[Delving into Shape-aware Zero-shot Semantic Segmentation](https://arxiv.org/pdf/2304.08491.pdf)|[Pytorch](https://github.com/Liuxinyv/SAZS)|
 |2023.04.24|魏洁<br>翟书唯|CVPR 2022|[High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/pdf/2112.10752.pdf)|[Pytorch](https://github.com/CompVis/latent-diffusion)|
