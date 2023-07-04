@@ -10,6 +10,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper source|Title|Code|
 |---|:---:|:--|---|:-:|
+|2023.07.03|韩梦<br>卢江山|CVPR 2023|[Pseudo-label Guided Contrastive Learning for Semi-supervised Medical Image Segmentation](https://openaccess.thecvf.com/content/CVPR2023/papers/Basak_Pseudo-Label_Guided_Contrastive_Learning_for_Semi-Supervised_Medical_Image_Segmentation_CVPR_2023_paper.pdf)|[Pytorch](https://github.com/hritam-98/PatchCL-MedSeg)|
+|2023.06.26|叶平<br>曲义杰|CVPR 2022|[BoostMIS: Boosting Medical Image Semi-supervised Learning with Adaptive Pseudo Labeling and Informative Active Annotation](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_BoostMIS_Boosting_Medical_Image_Semi-Supervised_Learning_With_Adaptive_Pseudo_Labeling_CVPR_2022_paper.pdf)|[Pytorch](https://github.com/wannature/BoostMIS)|
 |2023.06.19|付佳<br>钟岚烽|CVPR 2023|[Revisiting Weak-to-Strong Consistency in Semi-Supervised Semantic Segmentation](https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_Revisiting_Weak-to-Strong_Consistency_in_Semi-Supervised_Semantic_Segmentation_CVPR_2023_paper.pdf)|[Pytorch](https://github.com/LiheYoung/UniMatch)|
 |2023.06.19|罗祥德<br>钟岚烽|CVPR 2023|[Weakly supervised segmentation with point annotations for histopathology images via contrast-based variational model](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Weakly_Supervised_Segmentation_With_Point_Annotations_for_Histopathology_Images_via_CVPR_2023_paper.pdf)|[Not available](https://github.com/hrzhang1123/CVM_WS_Segmentation)|
 |2023.05.22|付佳<br>钟岚烽|ICLR 2023|[Diffusion Adversarial Representation Learning for Self-supervised Vessel Segmentation](https://arxiv.org/pdf/2209.14566.pdf)|[Pytorch](https://github.com/boahK/DARL)|
