@@ -10,6 +10,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper source|Title|Code|
 |---|:---:|:--|---|:-:|
+|2023.07.17|伍江浩<br>周瑜博|IPMI 2023|[Human-Machine Interactive Tissue Prototype Learning for Label-Efficient Histopathology Image Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-34048-2_52)|[Pytorch](https://github.com/WinterPan2017/proto2seg)|
+|2023.07.10|魏洁<br>邹宝胜|CVPR 2023|[Uncertainty-Aware Optimal Transport for Semantically Coherent Out-of-Distribution Detection](https://openaccess.thecvf.com/content/CVPR2023/papers/Lu_Uncertainty-Aware_Optimal_Transport_for_Semantically_Coherent_Out-of-Distribution_Detection_CVPR_2023_paper.pdf)|[Pytorch](https://github.com/LuFan31/ET-OOD)|
 |2023.07.03|韩梦<br>卢江山|CVPR 2023|[Pseudo-label Guided Contrastive Learning for Semi-supervised Medical Image Segmentation](https://openaccess.thecvf.com/content/CVPR2023/papers/Basak_Pseudo-Label_Guided_Contrastive_Learning_for_Semi-Supervised_Medical_Image_Segmentation_CVPR_2023_paper.pdf)|[Pytorch](https://github.com/hritam-98/PatchCL-MedSeg)|
 |2023.06.26|叶平<br>曲义杰|CVPR 2022|[BoostMIS: Boosting Medical Image Semi-supervised Learning with Adaptive Pseudo Labeling and Informative Active Annotation](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_BoostMIS_Boosting_Medical_Image_Semi-Supervised_Learning_With_Adaptive_Pseudo_Labeling_CVPR_2022_paper.pdf)|[Pytorch](https://github.com/wannature/BoostMIS)|
 |2023.06.19|付佳<br>钟岚烽|CVPR 2023|[Revisiting Weak-to-Strong Consistency in Semi-Supervised Semantic Segmentation](https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_Revisiting_Weak-to-Strong_Consistency_in_Semi-Supervised_Semantic_Segmentation_CVPR_2023_paper.pdf)|[Pytorch](https://github.com/LiheYoung/UniMatch)|
