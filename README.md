@@ -10,6 +10,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper source|Title|Code|
 |---|:---:|:--|---|:-:|
+|2023.08.07|付佳<br>钟岚烽|Nature Biomedical Engineering 2023|[Robust and data-efficient generalization of self-supervised machine learning for diagnostic imaging](https://www.nature.com/articles/s41551-023-01049-7)|[Tensorflow](https://github.com/google-research/medical-ai-research-foundations/tree/main)|
+|2023.07.24|罗祥德<br>王李廷煜|Nature Machine Intelligence 2023|[Uncertainty-guided dual-views for semi-supervised volumetric medical image segmentation](https://www.nature.com/articles/s42256-023-00682-w)|[Pytorch](https://github.com/himashi92/Co-BioNet)|
 |2023.07.17|伍江浩<br>周瑜博|IPMI 2023|[Human-Machine Interactive Tissue Prototype Learning for Label-Efficient Histopathology Image Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-34048-2_52)|[Pytorch](https://github.com/WinterPan2017/proto2seg)|
 |2023.07.10|魏洁<br>邹宝胜|CVPR 2023|[Uncertainty-Aware Optimal Transport for Semantically Coherent Out-of-Distribution Detection](https://openaccess.thecvf.com/content/CVPR2023/papers/Lu_Uncertainty-Aware_Optimal_Transport_for_Semantically_Coherent_Out-of-Distribution_Detection_CVPR_2023_paper.pdf)|[Pytorch](https://github.com/LuFan31/ET-OOD)|
 |2023.07.03|韩梦<br>卢江山|CVPR 2023|[Pseudo-label Guided Contrastive Learning for Semi-supervised Medical Image Segmentation](https://openaccess.thecvf.com/content/CVPR2023/papers/Basak_Pseudo-Label_Guided_Contrastive_Learning_for_Semi-Supervised_Medical_Image_Segmentation_CVPR_2023_paper.pdf)|[Pytorch](https://github.com/hritam-98/PatchCL-MedSeg)|
