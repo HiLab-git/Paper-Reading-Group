@@ -10,6 +10,8 @@ List shared papers in our group
 
 |Date|Speaker|Paper source|Title|Code|
 |---|:---:|:--|---|:-:|
+|2023.10.09|韩梦<br>卢江山|Nature Communications 2021|[Accurate recognition of colorectal cancer with semi-supervised deep learning on pathological images](https://www.nature.com/articles/s41467-021-26643-8#Sec23)|[Tensorflow](https://zenodo.org/record/5524324#.YU09Ny-KFLY)|
+|2023.09.25|伍江浩<br>周渝博|CVPR 2023|[Siamese Image Modeling for Self-Supervised Vision Representation Learning](https://openaccess.thecvf.com/content/CVPR2023/papers/Tao_Siamese_Image_Modeling_for_Self-Supervised_Vision_Representation_Learning_CVPR_2023_paper.pdf)||
 |2023.08.07|付佳<br>钟岚烽|Nature Biomedical Engineering 2023|[Robust and data-efficient generalization of self-supervised machine learning for diagnostic imaging](https://www.nature.com/articles/s41551-023-01049-7)|[Tensorflow](https://github.com/google-research/medical-ai-research-foundations/tree/main)|
 |2023.07.24|罗祥德<br>王李廷煜|Nature Machine Intelligence 2023|[Uncertainty-guided dual-views for semi-supervised volumetric medical image segmentation](https://www.nature.com/articles/s42256-023-00682-w)|[Pytorch](https://github.com/himashi92/Co-BioNet)|
 |2023.07.17|伍江浩<br>周瑜博|IPMI 2023|[Human-Machine Interactive Tissue Prototype Learning for Label-Efficient Histopathology Image Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-34048-2_52)|[Pytorch](https://github.com/WinterPan2017/proto2seg)|
