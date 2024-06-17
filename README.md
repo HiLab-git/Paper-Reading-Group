@@ -1,4 +1,4 @@
-# 组内资料分享
+![image](https://github.com/HiLab-git/Paper-Reading-Group/assets/41410137/32c1d062-72d8-4ed5-9a1b-0106e1e0ad59)# 组内资料分享
 
 - [组内资料分享](#组内资料分享)
 	- [1. Paper-Reading-Group (论文分享)](#Paper-Reading-Group)
@@ -10,6 +10,12 @@ List shared papers in our group
 
 |Date|Speaker|Paper source|Title|Code|
 |---|:---:|:--|---|:-:|
+|2024.06.17|罗祥德<br>叶平|arXiv|[Demystify Mamba in Vision: A Linear Attention Perspective](https://arxiv.org/pdf/2405.16605)|[Pytorch](https://github.com/LeapLabTHU/MLLA)|
+|2024.06.03|钟岚烽<br>周先豪|arXiv|[Vision mamba: Efficient visual representation learning with bidirectional state space model](https://arxiv.org/pdf/2401.09417v2)|[Pytorch](https://github.com/hustvl/Vim)|
+|2024.05.27|魏洁<br>付佳|arXiv|[Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752)|[Pytorch](https://github.com/state-spaces/mamba)|
+|2024.05.20|王李廷煜<br>罗子豪|Nature Medicine 2024|[Screening and diagnosis of cardiovascular disease using artificial intelligence-enabled cardiac magnetic resonance imaging](https://www.nature.com/articles/s41591-024-02971-2)|[Pytorch](https://github.com/MedAI-Vision/CMR-AI)|
+|2024.05.13|罗祥德<br>李赫|Nature Machine Intelligence 2024|[Foundation model for cancer imaging biomarkers](https://www.nature.com/articles/s42256-024-00807-9)|[Pytorch](https://github.com/AIM-Harvard/foundation-cancer-image-biomarker)|
+|2024.04.29|伍江浩<br>刘鑫雅|Nature Medicine 2024|[Prediction of tumor origin in cancers of unknown primary origin with cytology-based deep learning](https://www.nature.com/articles/s41591-024-02915-w)|[Pytorch](https://github.com/deeplearningplus/TORCH)|
 |2024.04.22|钟岚烽<br>邹宝胜|Nature Medicine 2024|[Towards a General-Purpose Foundation Model for Computational Pathology](https://www.nature.com/articles/s41591-024-02857-3)|[Pytorch](https://github.com/mahmoodlab/UNI)|
 |2024.04.15|韩梦<br>卢江山|arXiv|[MedCLIP-SAM: Bridging Text and Image Towards Universal Medical Image Segmentation](https://arxiv.org/abs/2403.20253)| |
 |2024.04.08|周渝博<br>伍江浩|CVPR 2024|[One-Prompt to Segment All Medical Images](https://arxiv.org/abs/2305.10300)|[Pytorch](https://github.com/KidsWithTokens/one-prompt)|
