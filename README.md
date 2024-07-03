@@ -55,7 +55,7 @@ List shared papers in our group
 |2023.04.17|顾然<br>Dejene|arXiv|[Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection](https://arxiv.org/pdf/2303.05499.pdf)|[Pytorch](https://github.com/IDEA-Research/GroundingDINO)|
 |2023.04.10|罗祥德<br>赵乾飞|arXiv|[Segment Anything](https://arxiv.org/pdf/2304.02643.pdf)|[Pytorch](https://github.com/facebookresearch/segment-anything)|
 |2023.04.03|邹宝胜<br>曲义杰|CVPR 2022|[GroupViT: Semantic Segmentation Emerges from Text Supervision](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_GroupViT_Semantic_Segmentation_Emerges_From_Text_Supervision_CVPR_2022_paper.pdf)|[Pytorch](https://github.com/NVlabs/GroupViT)|
-|2023.03.27|韩梦<br>卢江山|arXiv|[CLIP is Also an Efficient Segmenter: A Text-Driven Approach for Weakly Supervised Semantic Segmentation](https://arxiv.org/pdf/2212.09506.pdf)|[Pytorch](https://github.com/linyq2117/CLIP-ES)|
+|2023.03.27|韩梦<br>卢江山|CVPR2023|[CLIP is Also an Efficient Segmenter: A Text-Driven Approach for Weakly Supervised Semantic Segmentation](https://arxiv.org/pdf/2212.09506.pdf)|[Pytorch](https://github.com/linyq2117/CLIP-ES)|
 |2023.03.20|付佳<br>钟岚烽|ECCV 2022|[A Simple Baseline for Open-Vocabulary Semantic Segmentation with Pre-trained Vision-language Model](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136890725.pdf)|[Pytorch](https://github.com/MendelXu/zsseg.baseline)|
 |2023.03.16|赵乾飞<br>邹宝胜|arXiv|[CLIP-Driven Universal Model for Organ Segmentation and Tumor Detection](https://arxiv.org/abs/2301.00785v1)|[Pytorch](https://github.com/ljwztc/CLIP-Driven-Universal-Model)|
 |2023.03.02|伍江浩<br>刘鑫雅|AAAI 2023|[Decorate the Newcomers: Visual Domain Prompt for Continual Test Time Adaptation](https://arxiv.org/abs/2212.04145)||
