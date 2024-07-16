@@ -10,6 +10,10 @@ List shared papers in our group
 
 |Date|Speaker|Paper source|Title|Code|
 |---|:---:|:--|---|:-:|
+|2024.07.15|王李廷煜<br>罗子豪|EMNLP 2023|[RWKV: Reinventing RNNs for the Transformer Era](https://openreview.net/forum?id=7SaXczaBpG)|[Pytorch](https://github.com/BlinkDL/RWKV-LM)|
+|2024.07.08|韩梦<br>王旭晴|arXiv|[MambaAD: Exploring State Space Models for Multi-class Unsupervised Anomaly Detection](https://arxiv.org/abs/2404.06564)|[Pytorch](https://github.com/lewandofskee/MambaAD)|
+|2024.07.01|刘鑫雅<br>李赫|arXiv|[KAN: Kolmogorov–Arnold Networks]([https://openreview.net/forum?id=7SaXczaBpG])|[Pytorch](https://github.com/KindXiaoming/pykan)|
+|2024.06.24|伍江浩<br>周渝博|CVPR 2024|[Vim4Path: Self-Supervised Vision Mamba for Histopathology Images](https://openaccess.thecvf.com/content/CVPR2024W/CVMI/papers/Nasiri-Sarvi_Vim4Path_Self-Supervised_Vision_Mamba_for_Histopathology_Images_CVPRW_2024_paper.pdf)|[Pytorch](https://github.com/AtlasAnalyticsLab/Vim4Path)|
 |2024.06.17|罗祥德<br>叶平|arXiv|[Demystify Mamba in Vision: A Linear Attention Perspective](https://arxiv.org/pdf/2405.16605)|[Pytorch](https://github.com/LeapLabTHU/MLLA)|
 |2024.06.03|钟岚烽<br>周先豪|arXiv|[Vision mamba: Efficient visual representation learning with bidirectional state space model](https://arxiv.org/pdf/2401.09417v2)|[Pytorch](https://github.com/hustvl/Vim)|
 |2024.05.27|魏洁<br>付佳|arXiv|[Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752)|[Pytorch](https://github.com/state-spaces/mamba)|
