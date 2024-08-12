@@ -1,4 +1,4 @@
-![image](https://github.com/HiLab-git/Paper-Reading-Group/assets/41410137/32c1d062-72d8-4ed5-9a1b-0106e1e0ad59)# 组内资料分享
+# 组内资料分享
 
 - [组内资料分享](#组内资料分享)
 	- [1. Paper-Reading-Group (论文分享)](#Paper-Reading-Group)
