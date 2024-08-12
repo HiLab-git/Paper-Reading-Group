@@ -10,6 +10,10 @@ List shared papers in our group
 
 |Date|Speaker|Paper source|Title|Code|
 |---|:---:|:--|---|:-:|
+|2024.08.12|刘鑫雅<br>罗子豪|CVPR 2024|[Open-Set Domain Adaptation for Semantic Segmentation](https://openaccess.thecvf.com/content/CVPR2024/papers/Choe_Open-Set_Domain_Adaptation_for_Semantic_Segmentation_CVPR_2024_paper.pdf)|[Pytorch](https://github.com/KHU-AGI/BUS)|
+|2024.08.05|王李廷煜<br>李赫|CVPR 2024|[Adaptive Bidirectional Displacement for Semi-Supervised Medical Image Segmentation](https://openaccess.thecvf.com/content/CVPR2024/papers/Chi_Adaptive_Bidirectional_Displacement_for_Semi-Supervised_Medical_Image_Segmentation_CVPR_2024_paper.pdf)|[Pytorch](https://github.com/chy-upc/ABD)|
+|2024.07.29|伍江浩<br>周渝博|CVPR 2024|[Continual-MAE: Adaptive Distribution Masked Autoencoders for Continual Test-Time Adaptation](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Continual-MAE_Adaptive_Distribution_Masked_Autoencoders_for_Continual_Test-Time_Adaptation_CVPR_2024_paper.pdf)||
+|2024.07.22|付佳<br>魏洁|CVPR 2024|[From SAM to CAMs: Exploring Segment Anything Model for Weakly Supervised Semantic Segmentation](https://openaccess.thecvf.com/content/CVPR2024/papers/Kweon_From_SAM_to_CAMs_Exploring_Segment_Anything_Model_for_Weakly_CVPR_2024_paper.pdf)|[Pytorch](https://github.com/sangrockEG/S2C)|
 |2024.07.15|王李廷煜<br>罗子豪|EMNLP 2023|[RWKV: Reinventing RNNs for the Transformer Era](https://openreview.net/forum?id=7SaXczaBpG)|[Pytorch](https://github.com/BlinkDL/RWKV-LM)|
 |2024.07.08|韩梦<br>王旭晴|arXiv|[MambaAD: Exploring State Space Models for Multi-class Unsupervised Anomaly Detection](https://arxiv.org/abs/2404.06564)|[Pytorch](https://github.com/lewandofskee/MambaAD)|
 |2024.07.01|刘鑫雅<br>李赫|arXiv|[KAN: Kolmogorov–Arnold Networks]([https://openreview.net/forum?id=7SaXczaBpG])|[Pytorch](https://github.com/KindXiaoming/pykan)|
